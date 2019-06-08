@@ -1,0 +1,5210 @@
+{
+    "90003": {
+    "cost_of_living": 147,
+    "crime": 172,
+    "education": 0.011544152001245912,
+    "income": 9456,
+    "winter_temp": 58.3
+    },
+    "90004": {
+    "cost_of_living": 105,
+    "crime": 118,
+    "education": 0.13171128685599817,
+    "income": 28097,
+    "winter_temp": 58.3
+    },
+    "90005": {
+    "cost_of_living": 93,
+    "crime": 62,
+    "education": 0.09422130925996,
+    "income": 19619,
+    "winter_temp": 58.3
+    },
+    "90006": {
+    "cost_of_living": 113,
+    "crime": 75,
+    "education": 0.056113703456813636,
+    "income": 13105,
+    "winter_temp": 58.3
+    },
+    "90008": {
+    "cost_of_living": 89,
+    "crime": 155,
+    "education": 0.13263389941214893,
+    "income": 24135,
+    "winter_temp": 58.3
+    },
+    "90011": {
+    "cost_of_living": 163,
+    "crime": 128,
+    "education": 0.011661955405696612,
+    "income": 8509,
+    "winter_temp": 58.3
+    },
+    "90013": {
+    "cost_of_living": 66,
+    "crime": 97,
+    "education": 0.024056713411327188,
+    "income": 41164,
+    "winter_temp": 58.3
+    },
+    "90014": {
+    "cost_of_living": 62,
+    "crime": 152,
+    "education": 0.004339935295510139,
+    "income": 43770,
+    "winter_temp": 58.3
+    },
+    "90016": {
+    "cost_of_living": 111,
+    "crime": 218,
+    "education": 0.06011702272418016,
+    "income": 18483,
+    "winter_temp": 58.3
+    },
+    "90018": {
+    "cost_of_living": 118,
+    "crime": 163,
+    "education": 0.054160849292695136,
+    "income": 15552,
+    "winter_temp": 58.3
+    },
+    "90019": {
+    "cost_of_living": 107,
+    "crime": 181,
+    "education": 0.14793080693815988,
+    "income": 26964,
+    "winter_temp": 58.3
+    },
+    "90020": {
+    "cost_of_living": 88,
+    "crime": 86,
+    "education": 0.3133490689745607,
+    "income": 24710,
+    "winter_temp": 58.3
+    },
+    "90022": {
+    "cost_of_living": 145,
+    "crime": 107,
+    "education": 0.00989963414395555,
+    "income": 12371,
+    "winter_temp": 58.8
+    },
+    "90024": {
+    "cost_of_living": 92,
+    "crime": 155,
+    "education": 0.08979642968994676,
+    "income": 50026,
+    "winter_temp": 57.9
+    },
+    "90025": {
+    "cost_of_living": 83,
+    "crime": 119,
+    "education": 0.1746770110786022,
+    "income": 51595,
+    "winter_temp": 57.9
+    },
+    "90026": {
+    "cost_of_living": 105,
+    "crime": 155,
+    "education": 0.13153756199846767,
+    "income": 26077,
+    "winter_temp": 58.3
+    },
+    "90027": {
+    "cost_of_living": 83,
+    "crime": 162,
+    "education": 0.15589223157210444,
+    "income": 41279,
+    "winter_temp": 58.3
+    },
+    "90028": {
+    "cost_of_living": 73,
+    "crime": 113,
+    "education": 0.07469647750576194,
+    "income": 31829,
+    "winter_temp": 58.3
+    },
+    "90029": {
+    "cost_of_living": 103,
+    "crime": 70,
+    "education": 0.05320217584958587,
+    "income": 17904,
+    "winter_temp": 58.3
+    },
+    "90034": {
+    "cost_of_living": 90,
+    "crime": 128,
+    "education": 0.22768763809226236,
+    "income": 35775,
+    "winter_temp": 56.7
+    },
+    "90035": {
+    "cost_of_living": 96,
+    "crime": 246,
+    "education": 0.20045495278141587,
+    "income": 50521,
+    "winter_temp": 56.7
+    },
+    "90036": {
+    "cost_of_living": 83,
+    "crime": 217,
+    "education": 0.18048055666292176,
+    "income": 54417,
+    "winter_temp": 58.3
+    },
+    "90037": {
+    "cost_of_living": 138,
+    "crime": 111,
+    "education": 0.01725990284005979,
+    "income": 10117,
+    "winter_temp": 58.3
+    },
+    "90042": {
+    "cost_of_living": 123,
+    "crime": 140,
+    "education": 0.11713486057841817,
+    "income": 22079,
+    "winter_temp": 56.1
+    },
+    "90043": {
+    "cost_of_living": 108,
+    "crime": 227,
+    "education": 0.1124140851493534,
+    "income": 22562,
+    "winter_temp": 58.3
+    },
+    "90044": {
+    "cost_of_living": 127,
+    "crime": 144,
+    "education": 0.02594823483070459,
+    "income": 11772,
+    "winter_temp": 58.3
+    },
+    "90045": {
+    "cost_of_living": 109,
+    "crime": 211,
+    "education": 0.04818454536050481,
+    "income": 43748,
+    "winter_temp": 56.85
+    },
+    "90046": {
+    "cost_of_living": 71,
+    "crime": 189,
+    "education": 0.33812638383427074,
+    "income": 63591,
+    "winter_temp": 57.5
+    },
+    "90047": {
+    "cost_of_living": 115,
+    "crime": 254,
+    "education": 0.052625730604262504,
+    "income": 17999,
+    "winter_temp": 58.3
+    },
+    "90049": {
+    "cost_of_living": 101,
+    "crime": 196,
+    "education": 0.18099916581703587,
+    "income": 101066,
+    "winter_temp": 57.9
+    },
+    "90056": {
+    "cost_of_living": 106,
+    "crime": 141,
+    "education": 0.1906971349031435,
+    "income": 55921,
+    "winter_temp": 56.7
+    },
+    "90057": {
+    "cost_of_living": 101,
+    "crime": 73,
+    "education": 0.08096943879691483,
+    "income": 14482,
+    "winter_temp": 58.3
+    },
+    "90059": {
+    "cost_of_living": 150,
+    "crime": 209,
+    "education": 0.014404069401425298,
+    "income": 10801,
+    "winter_temp": 58.3
+    },
+    "90061": {
+    "cost_of_living": 140,
+    "crime": 151,
+    "education": 0.019380935631375308,
+    "income": 11541,
+    "winter_temp": 58.3
+    },
+    "90062": {
+    "cost_of_living": 130,
+    "crime": 177,
+    "education": 0.04768275714438617,
+    "income": 12258,
+    "winter_temp": 58.3
+    },
+    "90065": {
+    "cost_of_living": 125,
+    "crime": 177,
+    "education": 0.10024690046990735,
+    "income": 24820,
+    "winter_temp": 56.1
+    },
+    "90066": {
+    "cost_of_living": 96,
+    "crime": 219,
+    "education": 0.19916368228207093,
+    "income": 46975,
+    "winter_temp": 56.7
+    },
+    "90069": {
+    "cost_of_living": 67,
+    "crime": 170,
+    "education": 0.15575970022966276,
+    "income": 86453,
+    "winter_temp": 57.9
+    },
+    "90094": {
+    "cost_of_living": 59,
+    "crime": 133,
+    "education": 0.01963457867466594,
+    "income": 81576,
+    "winter_temp": 56.7
+    },
+    "90201": {
+    "cost_of_living": 151,
+    "crime": 86,
+    "education": 0.013695277169098793,
+    "income": 11029,
+    "winter_temp": 58.8
+    },
+    "90210": {
+    "cost_of_living": 120,
+    "crime": 90,
+    "education": 0.12831765386030378,
+    "income": 118095,
+    "winter_temp": 57.9
+    },
+    "90211": {
+    "cost_of_living": 101,
+    "crime": 66,
+    "education": 0.08283408426994109,
+    "income": 55439,
+    "winter_temp": 57.65
+    },
+    "90212": {
+    "cost_of_living": 91,
+    "crime": 82,
+    "education": 0.12133856641189837,
+    "income": 71147,
+    "winter_temp": 57.9
+    },
+    "90222": {
+    "cost_of_living": 156,
+    "crime": 173,
+    "education": 0.020486402300227628,
+    "income": 11504,
+    "winter_temp": 57
+    },
+    "90232": {
+    "cost_of_living": 96,
+    "crime": 92,
+    "education": 0.062325653476598825,
+    "income": 46463,
+    "winter_temp": 56.7
+    },
+    "90240": {
+    "cost_of_living": 143,
+    "crime": 97,
+    "education": 0.13072890241840013,
+    "income": 28765,
+    "winter_temp": 58.8
+    },
+    "90241": {
+    "cost_of_living": 124,
+    "crime": 83,
+    "education": 0.05936432886787497,
+    "income": 23607,
+    "winter_temp": 58.8
+    },
+    "90245": {
+    "cost_of_living": 100,
+    "crime": 90,
+    "education": 0.034538222444410634,
+    "income": 48088,
+    "winter_temp": 57.1
+    },
+    "90247": {
+    "cost_of_living": 114,
+    "crime": 112,
+    "education": 0.08128314145129699,
+    "income": 19873,
+    "winter_temp": 56.3
+    },
+    "90248": {
+    "cost_of_living": 118,
+    "crime": 245,
+    "education": 0.02032709844656211,
+    "income": 23520,
+    "winter_temp": 56.3
+    },
+    "90249": {
+    "cost_of_living": 121,
+    "crime": 194,
+    "education": 0.06769307486131022,
+    "income": 24592,
+    "winter_temp": 57.1
+    },
+    "90250": {
+    "cost_of_living": 114,
+    "crime": 165,
+    "education": 0.061197566442523214,
+    "income": 21180,
+    "winter_temp": 57.1
+    },
+    "90254": {
+    "cost_of_living": 93,
+    "crime": 61,
+    "education": 0.39923145137451965,
+    "income": 79066,
+    "winter_temp": 57.1
+    },
+    "90255": {
+    "cost_of_living": 149,
+    "crime": 146,
+    "education": 0.018279314630433873,
+    "income": 11541,
+    "winter_temp": 58.3
+    },
+    "90262": {
+    "cost_of_living": 175,
+    "crime": 157,
+    "education": 0.01517172658748654,
+    "income": 11633,
+    "winter_temp": 57
+    },
+    "90265": {
+    "cost_of_living": 129,
+    "crime": 84,
+    "education": 0.11106710422088945,
+    "income": 93715,
+    "winter_temp": 53.7
+    },
+    "90266": {
+    "cost_of_living": 120,
+    "crime": 63,
+    "education": 0.2711972671980448,
+    "income": 83628,
+    "winter_temp": 57.1
+    },
+    "90270": {
+    "cost_of_living": 153,
+    "crime": 74,
+    "education": 0.011737604212373848,
+    "income": 11395,
+    "winter_temp": 58.8
+    },
+    "90272": {
+    "cost_of_living": 124,
+    "crime": 211,
+    "education": 0.2797009666206371,
+    "income": 114560,
+    "winter_temp": 57
+    },
+    "90275": {
+    "cost_of_living": 124,
+    "crime": 23,
+    "education": 0.26012276693550607,
+    "income": 56288,
+    "winter_temp": 56.3
+    },
+    "90277": {
+    "cost_of_living": 94,
+    "crime": 71,
+    "education": 0.29722049841591275,
+    "income": 63180,
+    "winter_temp": 56.3
+    },
+    "90278": {
+    "cost_of_living": 112,
+    "crime": 91,
+    "education": 0.22202716703119604,
+    "income": 50921,
+    "winter_temp": 56.68
+    },
+    "90280": {
+    "cost_of_living": 151,
+    "crime": 107,
+    "education": 0.018292041910502155,
+    "income": 13578,
+    "winter_temp": 58.8
+    },
+    "90291": {
+    "cost_of_living": 87,
+    "crime": 264,
+    "education": 0.2922116646125711,
+    "income": 68360,
+    "winter_temp": 57
+    },
+    "90292": {
+    "cost_of_living": 77,
+    "crime": 120,
+    "education": 0.23278915441924847,
+    "income": 82342,
+    "winter_temp": 56.7
+    },
+    "90293": {
+    "cost_of_living": 81,
+    "crime": 134,
+    "education": 0.3775157794450399,
+    "income": 67652,
+    "winter_temp": 57.1
+    },
+    "90303": {
+    "cost_of_living": 137,
+    "crime": 176,
+    "education": 0.035326993660326995,
+    "income": 16359,
+    "winter_temp": 57.1
+    },
+    "90304": {
+    "cost_of_living": 153,
+    "crime": 85,
+    "education": 0.014720536280460187,
+    "income": 11369,
+    "winter_temp": 57.1
+    },
+    "90305": {
+    "cost_of_living": 103,
+    "crime": 388,
+    "education": 0.15655396016674386,
+    "income": 32825,
+    "winter_temp": 57.7
+    },
+    "90402": {
+    "cost_of_living": 110,
+    "crime": 187,
+    "education": 0.3144743524631793,
+    "income": 103540,
+    "winter_temp": 57
+    },
+    "90403": {
+    "cost_of_living": 77,
+    "crime": 107,
+    "education": 0.3364576599870718,
+    "income": 67681,
+    "winter_temp": 57
+    },
+    "90405": {
+    "cost_of_living": 82,
+    "crime": 171,
+    "education": 0.0824950196122103,
+    "income": 66024,
+    "winter_temp": 57
+    },
+    "90501": {
+    "cost_of_living": 120,
+    "crime": 108,
+    "education": 0.05837264150943396,
+    "income": 27802,
+    "winter_temp": 56.3
+    },
+    "90502": {
+    "cost_of_living": 128,
+    "crime": 63,
+    "education": 0.06937558381835165,
+    "income": 25471,
+    "winter_temp": 56.3
+    },
+    "90503": {
+    "cost_of_living": 111,
+    "crime": 50,
+    "education": 0.11875765655401023,
+    "income": 38248,
+    "winter_temp": 56.3
+    },
+    "90505": {
+    "cost_of_living": 111,
+    "crime": 57,
+    "education": 0.11674652949052217,
+    "income": 40565,
+    "winter_temp": 56.3
+    },
+    "90602": {
+    "cost_of_living": 120,
+    "crime": 62,
+    "education": 0.07413800734740848,
+    "income": 22243,
+    "winter_temp": 58.8
+    },
+    "90603": {
+    "cost_of_living": 129,
+    "crime": 94,
+    "education": 0.13662456946039037,
+    "income": 34951,
+    "winter_temp": 58.8
+    },
+    "90606": {
+    "cost_of_living": 151,
+    "crime": 124,
+    "education": 0.04107862020661881,
+    "income": 19577,
+    "winter_temp": 58.8
+    },
+    "90623": {
+    "cost_of_living": 135,
+    "crime": 49,
+    "education": 0.1665954459434711,
+    "income": 34383,
+    "winter_temp": 57
+    },
+    "90630": {
+    "cost_of_living": 130,
+    "crime": 59,
+    "education": 0.08461182112979262,
+    "income": 33358,
+    "winter_temp": 57
+    },
+    "90631": {
+    "cost_of_living": 128,
+    "crime": 29,
+    "education": 0.09730410015234815,
+    "income": 28798,
+    "winter_temp": 56.9
+    },
+    "90638": {
+    "cost_of_living": 140,
+    "crime": 52,
+    "education": 0.08164285483922985,
+    "income": 30178,
+    "winter_temp": 58.8
+    },
+    "90640": {
+    "cost_of_living": 127,
+    "crime": 96,
+    "education": 0.051430109697826236,
+    "income": 19859,
+    "winter_temp": 58.8
+    },
+    "90650": {
+    "cost_of_living": 154,
+    "crime": 88,
+    "education": 0.05500986853495539,
+    "income": 18701,
+    "winter_temp": 57.35
+    },
+    "90660": {
+    "cost_of_living": 150,
+    "crime": 90,
+    "education": 0.03132009636952729,
+    "income": 18017,
+    "winter_temp": 58.8
+    },
+    "90670": {
+    "cost_of_living": 134,
+    "crime": 232,
+    "education": 0.00937360511828597,
+    "income": 20620,
+    "winter_temp": 58.8
+    },
+    "90680": {
+    "cost_of_living": 135,
+    "crime": 107,
+    "education": 0.06706658668266346,
+    "income": 18079,
+    "winter_temp": 58
+    },
+    "90701": {
+    "cost_of_living": 148,
+    "crime": 102,
+    "education": 0.07079338268170302,
+    "income": 21835,
+    "winter_temp": 57
+    },
+    "90703": {
+    "cost_of_living": 140,
+    "crime": 74,
+    "education": 0.09223726769365714,
+    "income": 35538,
+    "winter_temp": 57
+    },
+    "90706": {
+    "cost_of_living": 124,
+    "crime": 102,
+    "education": 0.07419916997538671,
+    "income": 20214,
+    "winter_temp": 57
+    },
+    "90710": {
+    "cost_of_living": 116,
+    "crime": 125,
+    "education": 0.081954833141542,
+    "income": 24762,
+    "winter_temp": 56.3
+    },
+    "90713": {
+    "cost_of_living": 128,
+    "crime": 111,
+    "education": 0.11018363939899833,
+    "income": 33557,
+    "winter_temp": 57
+    },
+    "90715": {
+    "cost_of_living": 134,
+    "crime": 28,
+    "education": 0.13421750663129972,
+    "income": 23302,
+    "winter_temp": 57
+    },
+    "90717": {
+    "cost_of_living": 104,
+    "crime": 65,
+    "education": 0.12555441828727396,
+    "income": 30440,
+    "winter_temp": 56.3
+    },
+    "90720": {
+    "cost_of_living": 121,
+    "crime": 43,
+    "education": 0.09007939452400386,
+    "income": 44433,
+    "winter_temp": 57
+    },
+    "90723": {
+    "cost_of_living": 145,
+    "crime": 150,
+    "education": 0.020771927376737533,
+    "income": 13909,
+    "winter_temp": 57
+    },
+    "90731": {
+    "cost_of_living": 107,
+    "crime": 217,
+    "education": 0.09390725555845145,
+    "income": 26575,
+    "winter_temp": 56.3
+    },
+    "90732": {
+    "cost_of_living": 106,
+    "crime": 203,
+    "education": 0.1173595030690631,
+    "income": 41746,
+    "winter_temp": 56.3
+    },
+    "90740": {
+    "cost_of_living": 80,
+    "crime": 38,
+    "education": 0.18913971934106164,
+    "income": 51616,
+    "winter_temp": 57
+    },
+    "90744": {
+    "cost_of_living": 145,
+    "crime": 177,
+    "education": 0.017701701283790835,
+    "income": 14691,
+    "winter_temp": 56.3
+    },
+    "90745": {
+    "cost_of_living": 155,
+    "crime": 96,
+    "education": 0.09159040271051613,
+    "income": 21805,
+    "winter_temp": 56.3
+    },
+    "90746": {
+    "cost_of_living": 137,
+    "crime": 56,
+    "education": 0.045043070381167394,
+    "income": 28176,
+    "winter_temp": 56.3
+    },
+    "90755": {
+    "cost_of_living": 109,
+    "crime": 155,
+    "education": 0.0567637727141621,
+    "income": 33233,
+    "winter_temp": 57
+    },
+    "90802": {
+    "cost_of_living": 76,
+    "crime": 175,
+    "education": 0.06600971285774906,
+    "income": 34304,
+    "winter_temp": 57
+    },
+    "90803": {
+    "cost_of_living": 80,
+    "crime": 183,
+    "education": 0.3409237787492872,
+    "income": 61667,
+    "winter_temp": 57
+    },
+    "90804": {
+    "cost_of_living": 104,
+    "crime": 69,
+    "education": 0.08661990278545857,
+    "income": 22144,
+    "winter_temp": 57
+    },
+    "90805": {
+    "cost_of_living": 136,
+    "crime": 129,
+    "education": 0.04698077647945722,
+    "income": 16960,
+    "winter_temp": 57
+    },
+    "90808": {
+    "cost_of_living": 119,
+    "crime": 196,
+    "education": 0.07478185903129735,
+    "income": 41119,
+    "winter_temp": 57
+    },
+    "90810": {
+    "cost_of_living": 154,
+    "crime": 153,
+    "education": 0.044890614641538026,
+    "income": 16121,
+    "winter_temp": 57
+    },
+    "90813": {
+    "cost_of_living": 128,
+    "crime": 87,
+    "education": 0.02122152223977465,
+    "income": 12905,
+    "winter_temp": 57
+    },
+    "90814": {
+    "cost_of_living": 85,
+    "crime": 161,
+    "education": 0.29344777768335173,
+    "income": 42449,
+    "winter_temp": 57
+    },
+    "90815": {
+    "cost_of_living": 113,
+    "crime": 191,
+    "education": 0.07280000891474164,
+    "income": 38197,
+    "winter_temp": 57
+    },
+    "91010": {
+    "cost_of_living": 132,
+    "crime": 66,
+    "education": 0.0820336092656411,
+    "income": 23783,
+    "winter_temp": 53.55
+    },
+    "91011": {
+    "cost_of_living": 142,
+    "crime": 25,
+    "education": 0.22861625670614436,
+    "income": 73613,
+    "winter_temp": 56.1
+    },
+    "91016": {
+    "cost_of_living": 114,
+    "crime": 82,
+    "education": 0.08698607563648349,
+    "income": 35523,
+    "winter_temp": 56.3
+    },
+    "91024": {
+    "cost_of_living": 103,
+    "crime": 17,
+    "education": 0.2957856399583767,
+    "income": 55183,
+    "winter_temp": 48.39
+    },
+    "91040": {
+    "cost_of_living": 117,
+    "crime": 270,
+    "education": 0.15242460082791248,
+    "income": 32007,
+    "winter_temp": 54.8
+    },
+    "91042": {
+    "cost_of_living": 114,
+    "crime": 206,
+    "education": 0.14799886460403067,
+    "income": 28030,
+    "winter_temp": 54.8
+    },
+    "91103": {
+    "cost_of_living": 130,
+    "crime": 90,
+    "education": 0.06634839377642288,
+    "income": 29663,
+    "winter_temp": 56.1
+    },
+    "91105": {
+    "cost_of_living": 98,
+    "crime": 133,
+    "education": 0.08596541786743515,
+    "income": 82038,
+    "winter_temp": 56.1
+    },
+    "91108": {
+    "cost_of_living": 142,
+    "crime": 38,
+    "education": 0.24028372986552388,
+    "income": 72170,
+    "winter_temp": 56.28
+    },
+    "91201": {
+    "cost_of_living": 112,
+    "crime": 55,
+    "education": 0.0895373238732887,
+    "income": 26117,
+    "winter_temp": 54.8
+    },
+    "91202": {
+    "cost_of_living": 109,
+    "crime": 67,
+    "education": 0.20825475510533972,
+    "income": 36517,
+    "winter_temp": 54.8
+    },
+    "91203": {
+    "cost_of_living": 102,
+    "crime": 45,
+    "education": 0.07245349128222241,
+    "income": 25203,
+    "winter_temp": 54.8
+    },
+    "91204": {
+    "cost_of_living": 109,
+    "crime": 51,
+    "education": 0.0657411188240098,
+    "income": 21448,
+    "winter_temp": 54.8
+    },
+    "91205": {
+    "cost_of_living": 102,
+    "crime": 40,
+    "education": 0.12344206571650068,
+    "income": 20524,
+    "winter_temp": 55.67
+    },
+    "91207": {
+    "cost_of_living": 114,
+    "crime": 44,
+    "education": 0.32264719885732424,
+    "income": 47209,
+    "winter_temp": 55.02
+    },
+    "91208": {
+    "cost_of_living": 117,
+    "crime": 68,
+    "education": 0.08596808596808597,
+    "income": 44958,
+    "winter_temp": 54.91
+    },
+    "91301": {
+    "cost_of_living": 124,
+    "crime": 43,
+    "education": 0.13257881972514146,
+    "income": 51247,
+    "winter_temp": 53.7
+    },
+    "91302": {
+    "cost_of_living": 129,
+    "crime": 51,
+    "education": 0.1483543286751413,
+    "income": 70731,
+    "winter_temp": 53.7
+    },
+    "91303": {
+    "cost_of_living": 118,
+    "crime": 127,
+    "education": 0.04233621755253399,
+    "income": 19754,
+    "winter_temp": 53.7
+    },
+    "91304": {
+    "cost_of_living": 124,
+    "crime": 126,
+    "education": 0.12426128575601644,
+    "income": 27232,
+    "winter_temp": 53.7
+    },
+    "91306": {
+    "cost_of_living": 133,
+    "crime": 189,
+    "education": 0.16425287356321838,
+    "income": 22787,
+    "winter_temp": 53.7
+    },
+    "91307": {
+    "cost_of_living": 131,
+    "crime": 178,
+    "education": 0.19210401891252954,
+    "income": 39737,
+    "winter_temp": 53.7
+    },
+    "91320": {
+    "cost_of_living": 130,
+    "crime": 36,
+    "education": 0.1356084226711656,
+    "income": 46903,
+    "winter_temp": 55.7
+    },
+    "91324": {
+    "cost_of_living": 120,
+    "crime": 151,
+    "education": 0.09774436090225563,
+    "income": 27471,
+    "winter_temp": 53.7
+    },
+    "91331": {
+    "cost_of_living": 176,
+    "crime": 187,
+    "education": 0.03338588389581037,
+    "income": 13047,
+    "winter_temp": 54.8
+    },
+    "91335": {
+    "cost_of_living": 128,
+    "crime": 165,
+    "education": 0.11212667583055144,
+    "income": 20956,
+    "winter_temp": 53.7
+    },
+    "91340": {
+    "cost_of_living": 161,
+    "crime": 116,
+    "education": 0.016148027951529743,
+    "income": 15598,
+    "winter_temp": 54.8
+    },
+    "91342": {
+    "cost_of_living": 154,
+    "crime": 116,
+    "education": 0.040039297457695085,
+    "income": 19049,
+    "winter_temp": 54.8
+    },
+    "91343": {
+    "cost_of_living": 140,
+    "crime": 174,
+    "education": 0.08858152448258455,
+    "income": 21052,
+    "winter_temp": 53.7
+    },
+    "91344": {
+    "cost_of_living": 131,
+    "crime": 193,
+    "education": 0.15867944621938232,
+    "income": 32004,
+    "winter_temp": 53.7
+    },
+    "91345": {
+    "cost_of_living": 144,
+    "crime": 348,
+    "education": 0.08154165648668459,
+    "income": 21113,
+    "winter_temp": 53.7
+    },
+    "91351": {
+    "cost_of_living": 130,
+    "crime": 33,
+    "education": 0.08905756285204011,
+    "income": 26924,
+    "winter_temp": 50.3
+    },
+    "91360": {
+    "cost_of_living": 123,
+    "crime": 28,
+    "education": 0.13632184826924615,
+    "income": 40527,
+    "winter_temp": 55.7
+    },
+    "91361": {
+    "cost_of_living": 110,
+    "crime": 29,
+    "education": 0.15189388664531403,
+    "income": 61733,
+    "winter_temp": 54.82
+    },
+    "91367": {
+    "cost_of_living": 101,
+    "crime": 139,
+    "education": 0.07765714401245426,
+    "income": 45885,
+    "winter_temp": 53.7
+    },
+    "91377": {
+    "cost_of_living": 122,
+    "crime": 23,
+    "education": 0.2944374332589069,
+    "income": 61409,
+    "winter_temp": 53.7
+    },
+    "91381": {
+    "cost_of_living": 136,
+    "crime": 150,
+    "education": 0.11483554134307904,
+    "income": 47913,
+    "winter_temp": 50.3
+    },
+    "91384": {
+    "cost_of_living": 146,
+    "crime": 76,
+    "education": 0.09156027677614267,
+    "income": 28044,
+    "winter_temp": 50.3
+    },
+    "91387": {
+    "cost_of_living": 132,
+    "crime": 49,
+    "education": 0.14354422631279787,
+    "income": 31797,
+    "winter_temp": 50.3
+    },
+    "91390": {
+    "cost_of_living": 140,
+    "crime": 60,
+    "education": 0.12097239390193655,
+    "income": 39312,
+    "winter_temp": 50.3
+    },
+    "91401": {
+    "cost_of_living": 108,
+    "crime": 180,
+    "education": 0.0716458617434176,
+    "income": 27128,
+    "winter_temp": 54.8
+    },
+    "91402": {
+    "cost_of_living": 142,
+    "crime": 119,
+    "education": 0.07472668062340079,
+    "income": 13731,
+    "winter_temp": 54.8
+    },
+    "91405": {
+    "cost_of_living": 117,
+    "crime": 121,
+    "education": 0.07254657832718218,
+    "income": 18067,
+    "winter_temp": 54.8
+    },
+    "91406": {
+    "cost_of_living": 117,
+    "crime": 168,
+    "education": 0.07213848368688533,
+    "income": 21871,
+    "winter_temp": 53.7
+    },
+    "91411": {
+    "cost_of_living": 102,
+    "crime": 178,
+    "education": 0.08148095710038228,
+    "income": 24070,
+    "winter_temp": 55.52
+    },
+    "91423": {
+    "cost_of_living": 91,
+    "crime": 211,
+    "education": 0.19302900009148294,
+    "income": 60769,
+    "winter_temp": 57.9
+    },
+    "91436": {
+    "cost_of_living": 123,
+    "crime": 274,
+    "education": 0.09418479099182477,
+    "income": 77014,
+    "winter_temp": 54.68
+    },
+    "91501": {
+    "cost_of_living": 105,
+    "crime": 32,
+    "education": 0.15992656700760555,
+    "income": 33977,
+    "winter_temp": 54.8
+    },
+    "91502": {
+    "cost_of_living": 88,
+    "crime": 37,
+    "education": 0.020666304099928073,
+    "income": 25524,
+    "winter_temp": 54.8
+    },
+    "91504": {
+    "cost_of_living": 116,
+    "crime": 77,
+    "education": 0.03927617387027909,
+    "income": 34971,
+    "winter_temp": 54.8
+    },
+    "91506": {
+    "cost_of_living": 106,
+    "crime": 92,
+    "education": 0.06496369991933315,
+    "income": 36746,
+    "winter_temp": 54.8
+    },
+    "91601": {
+    "cost_of_living": 89,
+    "crime": 148,
+    "education": 0.14475617184420797,
+    "income": 29294,
+    "winter_temp": 54.8
+    },
+    "91602": {
+    "cost_of_living": 80,
+    "crime": 206,
+    "education": 0.36278870829769033,
+    "income": 53273,
+    "winter_temp": 54.8
+    },
+    "91604": {
+    "cost_of_living": 91,
+    "crime": 233,
+    "education": 0.2562855432505238,
+    "income": 70785,
+    "winter_temp": 54.8
+    },
+    "91605": {
+    "cost_of_living": 139,
+    "crime": 127,
+    "education": 0.060063689379987725,
+    "income": 16098,
+    "winter_temp": 54.8
+    },
+    "91606": {
+    "cost_of_living": 115,
+    "crime": 176,
+    "education": 0.07890158325117438,
+    "income": 19462,
+    "winter_temp": 54.8
+    },
+    "91607": {
+    "cost_of_living": 88,
+    "crime": 184,
+    "education": 0.21838187702265371,
+    "income": 40592,
+    "winter_temp": 54.8
+    },
+    "91702": {
+    "cost_of_living": 147,
+    "crime": 90,
+    "education": 0.04045571440422531,
+    "income": 19081,
+    "winter_temp": 54.6
+    },
+    "91706": {
+    "cost_of_living": 169,
+    "crime": 94,
+    "education": 0.03177910914300599,
+    "income": 14382,
+    "winter_temp": 56.3
+    },
+    "91708": {
+    "cost_of_living": 266,
+    "crime": 79,
+    "education": 0.014376513317191284,
+    "income": 18857,
+    "winter_temp": 54.7
+    },
+    "91709": {
+    "cost_of_living": 140,
+    "crime": 51,
+    "education": 0.2011506061228683,
+    "income": 35206,
+    "winter_temp": 54.6
+    },
+    "91710": {
+    "cost_of_living": 146,
+    "crime": 86,
+    "education": 0.040786434013271075,
+    "income": 24111,
+    "winter_temp": 54.6
+    },
+    "91723": {
+    "cost_of_living": 115,
+    "crime": 116,
+    "education": 0.052137691110500775,
+    "income": 25178,
+    "winter_temp": 54.6
+    },
+    "91724": {
+    "cost_of_living": 127,
+    "crime": 78,
+    "education": 0.10789980732177264,
+    "income": 29782,
+    "winter_temp": 54.6
+    },
+    "91730": {
+    "cost_of_living": 111,
+    "crime": 63,
+    "education": 0.03456585983675767,
+    "income": 25441,
+    "winter_temp": 56.6
+    },
+    "91731": {
+    "cost_of_living": 140,
+    "crime": 145,
+    "education": 0.021684504420660774,
+    "income": 13918,
+    "winter_temp": 56.3
+    },
+    "91732": {
+    "cost_of_living": 155,
+    "crime": 88,
+    "education": 0.040910241365822234,
+    "income": 13474,
+    "winter_temp": 56.3
+    },
+    "91733": {
+    "cost_of_living": 165,
+    "crime": 117,
+    "education": 0.012887026198696527,
+    "income": 12341,
+    "winter_temp": 58.8
+    },
+    "91737": {
+    "cost_of_living": 135,
+    "crime": 42,
+    "education": 0.0573378404234964,
+    "income": 38379,
+    "winter_temp": 56.6
+    },
+    "91740": {
+    "cost_of_living": 125,
+    "crime": 38,
+    "education": 0.0737412059376036,
+    "income": 27579,
+    "winter_temp": 54.6
+    },
+    "91741": {
+    "cost_of_living": 125,
+    "crime": 57,
+    "education": 0.08701657458563536,
+    "income": 39333,
+    "winter_temp": 54.6
+    },
+    "91744": {
+    "cost_of_living": 178,
+    "crime": 102,
+    "education": 0.03730594172407629,
+    "income": 15134,
+    "winter_temp": 58.8
+    },
+    "91745": {
+    "cost_of_living": 142,
+    "crime": 88,
+    "education": 0.12555150251867292,
+    "income": 28511,
+    "winter_temp": 58.8
+    },
+    "91746": {
+    "cost_of_living": 176,
+    "crime": 109,
+    "education": 0.02213345556937987,
+    "income": 15432,
+    "winter_temp": 58.8
+    },
+    "91748": {
+    "cost_of_living": 141,
+    "crime": 38,
+    "education": 0.10909832056090005,
+    "income": 25192,
+    "winter_temp": 56.9
+    },
+    "91752": {
+    "cost_of_living": 137,
+    "crime": 47,
+    "education": 0.012899607403252944,
+    "income": 21914,
+    "winter_temp": 55.91
+    },
+    "91755": {
+    "cost_of_living": 127,
+    "crime": 12,
+    "education": 0.1478901362204375,
+    "income": 23387,
+    "winter_temp": 57.83
+    },
+    "91761": {
+    "cost_of_living": 143,
+    "crime": 95,
+    "education": 0.02367231062151503,
+    "income": 19870,
+    "winter_temp": 56.6
+    },
+    "91762": {
+    "cost_of_living": 132,
+    "crime": 142,
+    "education": 0.03733710946602377,
+    "income": 17521,
+    "winter_temp": 56.06
+    },
+    "91764": {
+    "cost_of_living": 137,
+    "crime": 107,
+    "education": 0.030334563112918992,
+    "income": 16006,
+    "winter_temp": 56.6
+    },
+    "91765": {
+    "cost_of_living": 134,
+    "crime": 44,
+    "education": 0.19758519781561787,
+    "income": 35998,
+    "winter_temp": 54.6
+    },
+    "91766": {
+    "cost_of_living": 153,
+    "crime": 127,
+    "education": 0.05003219671443761,
+    "income": 15861,
+    "winter_temp": 54.6
+    },
+    "91767": {
+    "cost_of_living": 133,
+    "crime": 147,
+    "education": 0.055309472018983584,
+    "income": 18492,
+    "winter_temp": 54.6
+    },
+    "91768": {
+    "cost_of_living": 160,
+    "crime": 148,
+    "education": 0.01412226755876439,
+    "income": 14991,
+    "winter_temp": 54.6
+    },
+    "91770": {
+    "cost_of_living": 147,
+    "crime": 84,
+    "education": 0.06939019669939125,
+    "income": 16826,
+    "winter_temp": 56.3
+    },
+    "91775": {
+    "cost_of_living": 128,
+    "crime": 100,
+    "education": 0.2437935345597428,
+    "income": 36713,
+    "winter_temp": 56.3
+    },
+    "91784": {
+    "cost_of_living": 128,
+    "crime": 127,
+    "education": 0.20194840697847805,
+    "income": 41171,
+    "winter_temp": 54.6
+    },
+    "91786": {
+    "cost_of_living": 108,
+    "crime": 83,
+    "education": 0.057951813140978456,
+    "income": 22620,
+    "winter_temp": 54.6
+    },
+    "91792": {
+    "cost_of_living": 139,
+    "crime": 22,
+    "education": 0.16869025049413094,
+    "income": 23347,
+    "winter_temp": 54.6
+    },
+    "91801": {
+    "cost_of_living": 108,
+    "crime": 67,
+    "education": 0.14418981169169093,
+    "income": 25458,
+    "winter_temp": 56.3
+    },
+    "91901": {
+    "cost_of_living": 118,
+    "crime": 62,
+    "education": 0.12077294685990338,
+    "income": 37430,
+    "winter_temp": 54.1
+    },
+    "91902": {
+    "cost_of_living": 132,
+    "crime": 81,
+    "education": 0.21945962589485027,
+    "income": 37168,
+    "winter_temp": 57.3
+    },
+    "91910": {
+    "cost_of_living": 118,
+    "crime": 143,
+    "education": 0.06780479033982834,
+    "income": 24391,
+    "winter_temp": 57.3
+    },
+    "91911": {
+    "cost_of_living": 133,
+    "crime": 103,
+    "education": 0.049157036116150146,
+    "income": 19264,
+    "winter_temp": 57.3
+    },
+    "91913": {
+    "cost_of_living": 141,
+    "crime": 105,
+    "education": 0.06473120367673237,
+    "income": 27726,
+    "winter_temp": 57.3
+    },
+    "91914": {
+    "cost_of_living": 156,
+    "crime": 36,
+    "education": 0.05750712057507121,
+    "income": 36790,
+    "winter_temp": 55.82
+    },
+    "91915": {
+    "cost_of_living": 146,
+    "crime": 121,
+    "education": 0.08132287897064737,
+    "income": 30765,
+    "winter_temp": 57.3
+    },
+    "91932": {
+    "cost_of_living": 112,
+    "crime": 3,
+    "education": 0.06680235895830071,
+    "income": 22075,
+    "winter_temp": 57.3
+    },
+    "91942": {
+    "cost_of_living": 90,
+    "crime": 57,
+    "education": 0.12256907612264485,
+    "income": 32911,
+    "winter_temp": 57.1
+    },
+    "91945": {
+    "cost_of_living": 121,
+    "crime": 56,
+    "education": 0.06813635783291484,
+    "income": 21693,
+    "winter_temp": 57.1
+    },
+    "91950": {
+    "cost_of_living": 141,
+    "crime": 104,
+    "education": 0.03238458603586417,
+    "income": 17069,
+    "winter_temp": 57.3
+    },
+    "91977": {
+    "cost_of_living": 130,
+    "crime": 54,
+    "education": 0.09941944847605225,
+    "income": 23438,
+    "winter_temp": 57.1
+    },
+    "92007": {
+    "cost_of_living": 106,
+    "crime": 76,
+    "education": 0.3345210360422091,
+    "income": 58112,
+    "winter_temp": 55.5
+    },
+    "92009": {
+    "cost_of_living": 122,
+    "crime": 65,
+    "education": 0.17639544570952514,
+    "income": 48111,
+    "winter_temp": 56.4
+    },
+    "92010": {
+    "cost_of_living": 115,
+    "crime": 73,
+    "education": 0.10015490366928066,
+    "income": 37981,
+    "winter_temp": 55.8
+    },
+    "92011": {
+    "cost_of_living": 112,
+    "crime": 99,
+    "education": 0.13526262588446708,
+    "income": 50346,
+    "winter_temp": 56.4
+    },
+    "92014": {
+    "cost_of_living": 108,
+    "crime": 53,
+    "education": 0.24294649061848506,
+    "income": 80709,
+    "winter_temp": 55.3
+    },
+    "92019": {
+    "cost_of_living": 121,
+    "crime": 62,
+    "education": 0.071052059104068,
+    "income": 32864,
+    "winter_temp": 54.9
+    },
+    "92020": {
+    "cost_of_living": 114,
+    "crime": 80,
+    "education": 0.05681574546546032,
+    "income": 24238,
+    "winter_temp": 54.9
+    },
+    "92021": {
+    "cost_of_living": 114,
+    "crime": 87,
+    "education": 0.06851543038313467,
+    "income": 23481,
+    "winter_temp": 54.9
+    },
+    "92024": {
+    "cost_of_living": 112,
+    "crime": 74,
+    "education": 0.1765883584666532,
+    "income": 50962,
+    "winter_temp": 56.03
+    },
+    "92025": {
+    "cost_of_living": 131,
+    "crime": 86,
+    "education": 0.055574106759528695,
+    "income": 22240,
+    "winter_temp": 55.5
+    },
+    "92026": {
+    "cost_of_living": 117,
+    "crime": 78,
+    "education": 0.12110143298679404,
+    "income": 24961,
+    "winter_temp": 55.5
+    },
+    "92027": {
+    "cost_of_living": 134,
+    "crime": 63,
+    "education": 0.09269417475728155,
+    "income": 21519,
+    "winter_temp": 55.5
+    },
+    "92028": {
+    "cost_of_living": 120,
+    "crime": 79,
+    "education": 0.11814692256783588,
+    "income": 28976,
+    "winter_temp": 56.4
+    },
+    "92029": {
+    "cost_of_living": 115,
+    "crime": 86,
+    "education": 0.07462172403741686,
+    "income": 36571,
+    "winter_temp": 55.5
+    },
+    "92037": {
+    "cost_of_living": 116,
+    "crime": 137,
+    "education": 0.08495779920189285,
+    "income": 60470,
+    "winter_temp": 55.3
+    },
+    "92040": {
+    "cost_of_living": 115,
+    "crime": 55,
+    "education": 0.06801278244393541,
+    "income": 28873,
+    "winter_temp": 54.9
+    },
+    "92054": {
+    "cost_of_living": 108,
+    "crime": 154,
+    "education": 0.07884624507803975,
+    "income": 27383,
+    "winter_temp": 54.7
+    },
+    "92056": {
+    "cost_of_living": 112,
+    "crime": 51,
+    "education": 0.08956416292174905,
+    "income": 29636,
+    "winter_temp": 56.4
+    },
+    "92057": {
+    "cost_of_living": 127,
+    "crime": 66,
+    "education": 0.10650473548741785,
+    "income": 27290,
+    "winter_temp": 55.42
+    },
+    "92058": {
+    "cost_of_living": 152,
+    "crime": 100,
+    "education": 0.09677261134000392,
+    "income": 22516,
+    "winter_temp": 55.1
+    },
+    "92064": {
+    "cost_of_living": 133,
+    "crime": 50,
+    "education": 0.10639883044223902,
+    "income": 41975,
+    "winter_temp": 54.44
+    },
+    "92067": {
+    "cost_of_living": 129,
+    "crime": 111,
+    "education": 0.19704271631982476,
+    "income": 71427,
+    "winter_temp": 55.5
+    },
+    "92069": {
+    "cost_of_living": 131,
+    "crime": 9,
+    "education": 0.03174406732464961,
+    "income": 21777,
+    "winter_temp": 55.5
+    },
+    "92071": {
+    "cost_of_living": 117,
+    "crime": 29,
+    "education": 0.05897878673012397,
+    "income": 31371,
+    "winter_temp": 54.9
+    },
+    "92075": {
+    "cost_of_living": 104,
+    "crime": 93,
+    "education": 0.1794779477947795,
+    "income": 63272,
+    "winter_temp": 55.3
+    },
+    "92078": {
+    "cost_of_living": 112,
+    "crime": 34,
+    "education": 0.07611458740711771,
+    "income": 29961,
+    "winter_temp": 55.5
+    },
+    "92082": {
+    "cost_of_living": 130,
+    "crime": 68,
+    "education": 0.08134234911094415,
+    "income": 32198,
+    "winter_temp": 52.49
+    },
+    "92084": {
+    "cost_of_living": 129,
+    "crime": 14,
+    "education": 0.08437322423002613,
+    "income": 22127,
+    "winter_temp": 56.4
+    },
+    "92101": {
+    "cost_of_living": 74,
+    "crime": 122,
+    "education": 0.020907235912729555,
+    "income": 58746,
+    "winter_temp": 57.8
+    },
+    "92102": {
+    "cost_of_living": 117,
+    "crime": 87,
+    "education": 0.06282767759405428,
+    "income": 19651,
+    "winter_temp": 57.8
+    },
+    "92103": {
+    "cost_of_living": 74,
+    "crime": 126,
+    "education": 0.1696177799487117,
+    "income": 56816,
+    "winter_temp": 57.8
+    },
+    "92104": {
+    "cost_of_living": 84,
+    "crime": 102,
+    "education": 0.21772816261923605,
+    "income": 33815,
+    "winter_temp": 57.8
+    },
+    "92105": {
+    "cost_of_living": 124,
+    "crime": 63,
+    "education": 0.03882329791420701,
+    "income": 14453,
+    "winter_temp": 57.8
+    },
+    "92106": {
+    "cost_of_living": 109,
+    "crime": 103,
+    "education": 0.07303482587064676,
+    "income": 54817,
+    "winter_temp": 56.9
+    },
+    "92109": {
+    "cost_of_living": 81,
+    "crime": 141,
+    "education": 0.2515809374796271,
+    "income": 51611,
+    "winter_temp": 57.8
+    },
+    "92111": {
+    "cost_of_living": 110,
+    "crime": 78,
+    "education": 0.038219854871082294,
+    "income": 28574,
+    "winter_temp": 57.8
+    },
+    "92114": {
+    "cost_of_living": 153,
+    "crime": 59,
+    "education": 0.11233237041734188,
+    "income": 17963,
+    "winter_temp": 57.1
+    },
+    "92115": {
+    "cost_of_living": 103,
+    "crime": 119,
+    "education": 0.06060738189190957,
+    "income": 23896,
+    "winter_temp": 57.1
+    },
+    "92116": {
+    "cost_of_living": 80,
+    "crime": 133,
+    "education": 0.3521116729577665,
+    "income": 38581,
+    "winter_temp": 57.8
+    },
+    "92117": {
+    "cost_of_living": 105,
+    "crime": 130,
+    "education": 0.1295109026148901,
+    "income": 34140,
+    "winter_temp": 55.3
+    },
+    "92118": {
+    "cost_of_living": 131,
+    "crime": 35,
+    "education": 0.09971249346576058,
+    "income": 49068,
+    "winter_temp": 56.9
+    },
+    "92119": {
+    "cost_of_living": 104,
+    "crime": 143,
+    "education": 0.22903412377096588,
+    "income": 36155,
+    "winter_temp": 57.1
+    },
+    "92122": {
+    "cost_of_living": 85,
+    "crime": 63,
+    "education": 0.11446559736171488,
+    "income": 44222,
+    "winter_temp": 55.3
+    },
+    "92126": {
+    "cost_of_living": 134,
+    "crime": 77,
+    "education": 0.097853665871032,
+    "income": 32371,
+    "winter_temp": 55.3
+    },
+    "92127": {
+    "cost_of_living": 137,
+    "crime": 59,
+    "education": 0.09320164924729121,
+    "income": 52768,
+    "winter_temp": 55.5
+    },
+    "92128": {
+    "cost_of_living": 105,
+    "crime": 54,
+    "education": 0.23583862009798387,
+    "income": 45312,
+    "winter_temp": 55.5
+    },
+    "92129": {
+    "cost_of_living": 138,
+    "crime": 56,
+    "education": 0.27289068032027886,
+    "income": 41570,
+    "winter_temp": 55.3
+    },
+    "92130": {
+    "cost_of_living": 128,
+    "crime": 27,
+    "education": 0.09642688280986153,
+    "income": 61671,
+    "winter_temp": 55.3
+    },
+    "92154": {
+    "cost_of_living": 157,
+    "crime": 60,
+    "education": 0.04891740176423416,
+    "income": 18201,
+    "winter_temp": 57.3
+    },
+    "92173": {
+    "cost_of_living": 145,
+    "crime": 57,
+    "education": 0.023415000626069535,
+    "income": 12355,
+    "winter_temp": 57.3
+    },
+    "92201": {
+    "cost_of_living": 124,
+    "crime": 81,
+    "education": 0.023554603854389723,
+    "income": 17074,
+    "winter_temp": 56.8
+    },
+    "92210": {
+    "cost_of_living": 86,
+    "crime": 64,
+    "education": 0.08880045480386584,
+    "income": 70968,
+    "winter_temp": 56.8
+    },
+    "92211": {
+    "cost_of_living": 82,
+    "crime": 230,
+    "education": 0.10849800382460496,
+    "income": 46969,
+    "winter_temp": 57.3
+    },
+    "92223": {
+    "cost_of_living": 119,
+    "crime": 104,
+    "education": 0.02048498404298846,
+    "income": 26266,
+    "winter_temp": 51.8
+    },
+    "92225": {
+    "cost_of_living": 109,
+    "crime": 117,
+    "education": 0.023912205041898952,
+    "income": 13824,
+    "winter_temp": 54.2
+    },
+    "92227": {
+    "cost_of_living": 125,
+    "crime": 88,
+    "education": 0.033547441178524054,
+    "income": 18142,
+    "winter_temp": 54.8
+    },
+    "92231": {
+    "cost_of_living": 142,
+    "crime": 104,
+    "education": 0.022856424440533065,
+    "income": 13268,
+    "winter_temp": 55.8
+    },
+    "92234": {
+    "cost_of_living": 114,
+    "crime": 84,
+    "education": 0.05283466904125853,
+    "income": 20308,
+    "winter_temp": 57.3
+    },
+    "92236": {
+    "cost_of_living": 158,
+    "crime": 109,
+    "education": 0.005789364209942453,
+    "income": 11214,
+    "winter_temp": 55
+    },
+    "92241": {
+    "cost_of_living": 92,
+    "crime": 73,
+    "education": 0.07928440739987802,
+    "income": 21230,
+    "winter_temp": 57.2
+    },
+    "92243": {
+    "cost_of_living": 126,
+    "crime": 91,
+    "education": 0.033909805544062886,
+    "income": 18591,
+    "winter_temp": 55.8
+    },
+    "92251": {
+    "cost_of_living": 137,
+    "crime": 69,
+    "education": 0.026588869603751984,
+    "income": 20117,
+    "winter_temp": 55.2
+    },
+    "92252": {
+    "cost_of_living": 91,
+    "crime": 90,
+    "education": 0.0499047619047619,
+    "income": 23606,
+    "winter_temp": 50
+    },
+    "92253": {
+    "cost_of_living": 106,
+    "crime": 89,
+    "education": 0.06586281689483872,
+    "income": 40311,
+    "winter_temp": 56.8
+    },
+    "92260": {
+    "cost_of_living": 85,
+    "crime": 27,
+    "education": 0.0663233079053496,
+    "income": 38506,
+    "winter_temp": 56.8
+    },
+    "92262": {
+    "cost_of_living": 84,
+    "crime": 76,
+    "education": 0.061942232031474906,
+    "income": 36041,
+    "winter_temp": 57.3
+    },
+    "92301": {
+    "cost_of_living": 138,
+    "crime": 86,
+    "education": 0.014300975223129673,
+    "income": 10643,
+    "winter_temp": 45.5
+    },
+    "92307": {
+    "cost_of_living": 116,
+    "crime": 49,
+    "education": 0.05580931816294328,
+    "income": 25770,
+    "winter_temp": 45.5
+    },
+    "92308": {
+    "cost_of_living": 108,
+    "crime": 93,
+    "education": 0.04029653758670074,
+    "income": 20767,
+    "winter_temp": 45.5
+    },
+    "92313": {
+    "cost_of_living": 110,
+    "crime": 65,
+    "education": 0.09657253718473809,
+    "income": 28696,
+    "winter_temp": 54.2
+    },
+    "92314": {
+    "cost_of_living": 91,
+    "crime": 98,
+    "education": 0.09017553793884485,
+    "income": 24131,
+    "winter_temp": 33.9
+    },
+    "92315": {
+    "cost_of_living": 93,
+    "crime": 110,
+    "education": 0.07874714684250571,
+    "income": 34725,
+    "winter_temp": 33.9
+    },
+    "92316": {
+    "cost_of_living": 159,
+    "crime": 73,
+    "education": 0.017870314490712802,
+    "income": 13265,
+    "winter_temp": 54.2
+    },
+    "92320": {
+    "cost_of_living": 98,
+    "crime": 84,
+    "education": 0.057853549468977084,
+    "income": 29835,
+    "winter_temp": 51.8
+    },
+    "92324": {
+    "cost_of_living": 128,
+    "crime": 101,
+    "education": 0.03787867226249523,
+    "income": 16389,
+    "winter_temp": 54.4
+    },
+    "92325": {
+    "cost_of_living": 96,
+    "crime": 159,
+    "education": 0.13029749044374273,
+    "income": 23747,
+    "winter_temp": 36.9
+    },
+    "92335": {
+    "cost_of_living": 152,
+    "crime": 142,
+    "education": 0.015416280745085931,
+    "income": 12722,
+    "winter_temp": 56.6
+    },
+    "92336": {
+    "cost_of_living": 161,
+    "crime": 96,
+    "education": 0.038024347826086956,
+    "income": 23604,
+    "winter_temp": 56.6
+    },
+    "92337": {
+    "cost_of_living": 158,
+    "crime": 72,
+    "education": 0.024992209411031474,
+    "income": 19111,
+    "winter_temp": 56.6
+    },
+    "92344": {
+    "cost_of_living": 142,
+    "crime": 32,
+    "education": 0.030485617961408796,
+    "income": 21883,
+    "winter_temp": 45.5
+    },
+    "92345": {
+    "cost_of_living": 125,
+    "crime": 67,
+    "education": 0.019453055919545742,
+    "income": 16331,
+    "winter_temp": 45.5
+    },
+    "92346": {
+    "cost_of_living": 126,
+    "crime": 120,
+    "education": 0.067233428847942,
+    "income": 23721,
+    "winter_temp": 54.4
+    },
+    "92354": {
+    "cost_of_living": 108,
+    "crime": 67,
+    "education": 0.07246575342465754,
+    "income": 30912,
+    "winter_temp": 52.9
+    },
+    "92373": {
+    "cost_of_living": 103,
+    "crime": 74,
+    "education": 0.1246828831517684,
+    "income": 41829,
+    "winter_temp": 52.9
+    },
+    "92374": {
+    "cost_of_living": 124,
+    "crime": 68,
+    "education": 0.05061047976718854,
+    "income": 26820,
+    "winter_temp": 52.9
+    },
+    "92376": {
+    "cost_of_living": 145,
+    "crime": 102,
+    "education": 0.029077618600281824,
+    "income": 13741,
+    "winter_temp": 54.4
+    },
+    "92377": {
+    "cost_of_living": 152,
+    "crime": 80,
+    "education": 0.06089977029525464,
+    "income": 24509,
+    "winter_temp": 56.6
+    },
+    "92392": {
+    "cost_of_living": 135,
+    "crime": 115,
+    "education": 0.020595078153160532,
+    "income": 18193,
+    "winter_temp": 45.5
+    },
+    "92394": {
+    "cost_of_living": 148,
+    "crime": 51,
+    "education": 0.02175895225464191,
+    "income": 14260,
+    "winter_temp": 45.5
+    },
+    "92395": {
+    "cost_of_living": 112,
+    "crime": 130,
+    "education": 0.03732391070342116,
+    "income": 17721,
+    "winter_temp": 45.5
+    },
+    "92399": {
+    "cost_of_living": 112,
+    "crime": 51,
+    "education": 0.04797691336499729,
+    "income": 26894,
+    "winter_temp": 51.8
+    },
+    "92404": {
+    "cost_of_living": 122,
+    "crime": 145,
+    "education": 0.04471399913759163,
+    "income": 15276,
+    "winter_temp": 54.4
+    },
+    "92405": {
+    "cost_of_living": 121,
+    "crime": 190,
+    "education": 0.040309715575269446,
+    "income": 13818,
+    "winter_temp": 54.4
+    },
+    "92407": {
+    "cost_of_living": 134,
+    "crime": 117,
+    "education": 0.040171499164304916,
+    "income": 18392,
+    "winter_temp": 54.4
+    },
+    "92408": {
+    "cost_of_living": 130,
+    "crime": 98,
+    "education": 0.012608905039183924,
+    "income": 13376,
+    "winter_temp": 54.4
+    },
+    "92501": {
+    "cost_of_living": 119,
+    "crime": 152,
+    "education": 0.03099819888141056,
+    "income": 19068,
+    "winter_temp": 54.2
+    },
+    "92503": {
+    "cost_of_living": 138,
+    "crime": 72,
+    "education": 0.04617964869155528,
+    "income": 19523,
+    "winter_temp": 55.3
+    },
+    "92504": {
+    "cost_of_living": 125,
+    "crime": 147,
+    "education": 0.04397587164564575,
+    "income": 22366,
+    "winter_temp": 55.3
+    },
+    "92505": {
+    "cost_of_living": 132,
+    "crime": 69,
+    "education": 0.04301746978868234,
+    "income": 19581,
+    "winter_temp": 54.7
+    },
+    "92506": {
+    "cost_of_living": 120,
+    "crime": 141,
+    "education": 0.05051004636785162,
+    "income": 36372,
+    "winter_temp": 55.3
+    },
+    "92507": {
+    "cost_of_living": 115,
+    "crime": 82,
+    "education": 0.027957092693251237,
+    "income": 18059,
+    "winter_temp": 54.2
+    },
+    "92508": {
+    "cost_of_living": 148,
+    "crime": 41,
+    "education": 0.06137754758861909,
+    "income": 31301,
+    "winter_temp": 54.2
+    },
+    "92509": {
+    "cost_of_living": 148,
+    "crime": 62,
+    "education": 0.02734098740538995,
+    "income": 17843,
+    "winter_temp": 55.3
+    },
+    "92530": {
+    "cost_of_living": 130,
+    "crime": 99,
+    "education": 0.030476234553616883,
+    "income": 19414,
+    "winter_temp": 52.2
+    },
+    "92532": {
+    "cost_of_living": 135,
+    "crime": 78,
+    "education": 0.03901465629945641,
+    "income": 25457,
+    "winter_temp": 52.2
+    },
+    "92543": {
+    "cost_of_living": 94,
+    "crime": 63,
+    "education": 0.03303819593684633,
+    "income": 14630,
+    "winter_temp": 52.4
+    },
+    "92544": {
+    "cost_of_living": 111,
+    "crime": 104,
+    "education": 0.050178319648337064,
+    "income": 20203,
+    "winter_temp": 52.4
+    },
+    "92545": {
+    "cost_of_living": 100,
+    "crime": 83,
+    "education": 0.05181470160548417,
+    "income": 20915,
+    "winter_temp": 52.4
+    },
+    "92551": {
+    "cost_of_living": 152,
+    "crime": 70,
+    "education": 0.04663712543324705,
+    "income": 15447,
+    "winter_temp": 54.2
+    },
+    "92553": {
+    "cost_of_living": 141,
+    "crime": 94,
+    "education": 0.030086636113098954,
+    "income": 13708,
+    "winter_temp": 54.2
+    },
+    "92557": {
+    "cost_of_living": 135,
+    "crime": 79,
+    "education": 0.08829679023508137,
+    "income": 20852,
+    "winter_temp": 54.2
+    },
+    "92562": {
+    "cost_of_living": 123,
+    "crime": 43,
+    "education": 0.06769339640210063,
+    "income": 31293,
+    "winter_temp": 51.2
+    },
+    "92563": {
+    "cost_of_living": 135,
+    "crime": 92,
+    "education": 0.030482967521696276,
+    "income": 26202,
+    "winter_temp": 51.2
+    },
+    "92570": {
+    "cost_of_living": 147,
+    "crime": 85,
+    "education": 0.020251731196376466,
+    "income": 14293,
+    "winter_temp": 52.03
+    },
+    "92582": {
+    "cost_of_living": 139,
+    "crime": 60,
+    "education": 0.015477072528196262,
+    "income": 17899,
+    "winter_temp": 52.4
+    },
+    "92583": {
+    "cost_of_living": 115,
+    "crime": 72,
+    "education": 0.014415031955000907,
+    "income": 16397,
+    "winter_temp": 52.4
+    },
+    "92584": {
+    "cost_of_living": 131,
+    "crime": 60,
+    "education": 0.026848920863309353,
+    "income": 25981,
+    "winter_temp": 51.2
+    },
+    "92585": {
+    "cost_of_living": 124,
+    "crime": 88,
+    "education": 0.03516121792474003,
+    "income": 21416,
+    "winter_temp": 51.2
+    },
+    "92587": {
+    "cost_of_living": 121,
+    "crime": 36,
+    "education": 0.09107702192594973,
+    "income": 29065,
+    "winter_temp": 51.64
+    },
+    "92591": {
+    "cost_of_living": 122,
+    "crime": 71,
+    "education": 0.050844932533094966,
+    "income": 27977,
+    "winter_temp": 51.2
+    },
+    "92592": {
+    "cost_of_living": 135,
+    "crime": 89,
+    "education": 0.08936511050085001,
+    "income": 30885,
+    "winter_temp": 51.2
+    },
+    "92596": {
+    "cost_of_living": 141,
+    "crime": 141,
+    "education": 0.011233418007338413,
+    "income": 27051,
+    "winter_temp": 51.2
+    },
+    "92603": {
+    "cost_of_living": 125,
+    "crime": 46,
+    "education": 0.19139000364830355,
+    "income": 67684,
+    "winter_temp": 56.7
+    },
+    "92604": {
+    "cost_of_living": 120,
+    "crime": 71,
+    "education": 0.17078352411453213,
+    "income": 41178,
+    "winter_temp": 54.5
+    },
+    "92606": {
+    "cost_of_living": 120,
+    "crime": 56,
+    "education": 0.11020940318761142,
+    "income": 44370,
+    "winter_temp": 58
+    },
+    "92610": {
+    "cost_of_living": 132,
+    "crime": 36,
+    "education": 0.10535006605019816,
+    "income": 49189,
+    "winter_temp": 54.67
+    },
+    "92618": {
+    "cost_of_living": 91,
+    "crime": 36,
+    "education": 0.016862248027149692,
+    "income": 54742,
+    "winter_temp": 54.5
+    },
+    "92620": {
+    "cost_of_living": 119,
+    "crime": 102,
+    "education": 0.2053374742696183,
+    "income": 50631,
+    "winter_temp": 54.5
+    },
+    "92625": {
+    "cost_of_living": 99,
+    "crime": 56,
+    "education": 0.41065427950187783,
+    "income": 103016,
+    "winter_temp": 55.9
+    },
+    "92626": {
+    "cost_of_living": 109,
+    "crime": 47,
+    "education": 0.060133630289532294,
+    "income": 38198,
+    "winter_temp": 56.72
+    },
+    "92627": {
+    "cost_of_living": 111,
+    "crime": 77,
+    "education": 0.13325939432674774,
+    "income": 31003,
+    "winter_temp": 55.9
+    },
+    "92630": {
+    "cost_of_living": 125,
+    "crime": 20,
+    "education": 0.1234355295808643,
+    "income": 36009,
+    "winter_temp": 56.7
+    },
+    "92646": {
+    "cost_of_living": 114,
+    "crime": 43,
+    "education": 0.23382583938739446,
+    "income": 42204,
+    "winter_temp": 55.9
+    },
+    "92647": {
+    "cost_of_living": 119,
+    "crime": 26,
+    "education": 0.08193910597622063,
+    "income": 31386,
+    "winter_temp": 58
+    },
+    "92648": {
+    "cost_of_living": 102,
+    "crime": 45,
+    "education": 0.21823366175309963,
+    "income": 55304,
+    "winter_temp": 55.9
+    },
+    "92649": {
+    "cost_of_living": 103,
+    "crime": 58,
+    "education": 0.15381896225224087,
+    "income": 52499,
+    "winter_temp": 57
+    },
+    "92656": {
+    "cost_of_living": 114,
+    "crime": 9,
+    "education": 0.18060150934978997,
+    "income": 47100,
+    "winter_temp": 55.4
+    },
+    "92657": {
+    "cost_of_living": 125,
+    "crime": 56,
+    "education": 0.20168067226890757,
+    "income": 98403,
+    "winter_temp": 55.71
+    },
+    "92660": {
+    "cost_of_living": 103,
+    "crime": 64,
+    "education": 0.07953628362276047,
+    "income": 77357,
+    "winter_temp": 55.9
+    },
+    "92672": {
+    "cost_of_living": 105,
+    "crime": 38,
+    "education": 0.14270032930845225,
+    "income": 46229,
+    "winter_temp": 55.4
+    },
+    "92677": {
+    "cost_of_living": 116,
+    "crime": 23,
+    "education": 0.27818614974242023,
+    "income": 52176,
+    "winter_temp": 55.4
+    },
+    "92683": {
+    "cost_of_living": 138,
+    "crime": 66,
+    "education": 0.09444802202103615,
+    "income": 21925,
+    "winter_temp": 58
+    },
+    "92688": {
+    "cost_of_living": 122,
+    "crime": 23,
+    "education": 0.19779299119111451,
+    "income": 40863,
+    "winter_temp": 56.7
+    },
+    "92691": {
+    "cost_of_living": 128,
+    "crime": 23,
+    "education": 0.09195258463778667,
+    "income": 38433,
+    "winter_temp": 56.7
+    },
+    "92692": {
+    "cost_of_living": 122,
+    "crime": 36,
+    "education": 0.2483417561591914,
+    "income": 45067,
+    "winter_temp": 56.7
+    },
+    "92704": {
+    "cost_of_living": 173,
+    "crime": 92,
+    "education": 0.042634493053930904,
+    "income": 15842,
+    "winter_temp": 58
+    },
+    "92705": {
+    "cost_of_living": 129,
+    "crime": 121,
+    "education": 0.052569032960866194,
+    "income": 41134,
+    "winter_temp": 58
+    },
+    "92706": {
+    "cost_of_living": 154,
+    "crime": 127,
+    "education": 0.033203125,
+    "income": 21207,
+    "winter_temp": 58
+    },
+    "92708": {
+    "cost_of_living": 130,
+    "crime": 45,
+    "education": 0.08134800892797271,
+    "income": 34308,
+    "winter_temp": 58
+    },
+    "92780": {
+    "cost_of_living": 125,
+    "crime": 38,
+    "education": 0.08825845857108415,
+    "income": 26969,
+    "winter_temp": 58
+    },
+    "92801": {
+    "cost_of_living": 138,
+    "crime": 73,
+    "education": 0.04898108858504898,
+    "income": 18553,
+    "winter_temp": 56.9
+    },
+    "92804": {
+    "cost_of_living": 137,
+    "crime": 59,
+    "education": 0.08593591416557923,
+    "income": 19778,
+    "winter_temp": 57.45
+    },
+    "92805": {
+    "cost_of_living": 151,
+    "crime": 90,
+    "education": 0.029773844148029284,
+    "income": 17641,
+    "winter_temp": 56.9
+    },
+    "92808": {
+    "cost_of_living": 127,
+    "crime": 119,
+    "education": 0.3161748553855166,
+    "income": 52600,
+    "winter_temp": 56.9
+    },
+    "92821": {
+    "cost_of_living": 116,
+    "crime": 51,
+    "education": 0.05657720057720058,
+    "income": 36525,
+    "winter_temp": 56.9
+    },
+    "92832": {
+    "cost_of_living": 120,
+    "crime": 67,
+    "education": 0.05430570990898988,
+    "income": 25639,
+    "winter_temp": 56.9
+    },
+    "92833": {
+    "cost_of_living": 133,
+    "crime": 62,
+    "education": 0.13072812896214453,
+    "income": 27285,
+    "winter_temp": 56.9
+    },
+    "92835": {
+    "cost_of_living": 122,
+    "crime": 72,
+    "education": 0.17023354564755838,
+    "income": 48477,
+    "winter_temp": 56.9
+    },
+    "92840": {
+    "cost_of_living": 144,
+    "crime": 69,
+    "education": 0.07571608153003502,
+    "income": 20688,
+    "winter_temp": 58
+    },
+    "92841": {
+    "cost_of_living": 143,
+    "crime": 98,
+    "education": 0.06983087834151663,
+    "income": 20265,
+    "winter_temp": 58
+    },
+    "92844": {
+    "cost_of_living": 143,
+    "crime": 65,
+    "education": 0.08580964685615848,
+    "income": 16602,
+    "winter_temp": 58
+    },
+    "92845": {
+    "cost_of_living": 125,
+    "crime": 66,
+    "education": 0.17252348893985353,
+    "income": 35358,
+    "winter_temp": 57
+    },
+    "92860": {
+    "cost_of_living": 162,
+    "crime": 75,
+    "education": 0.03947126295773784,
+    "income": 27384,
+    "winter_temp": 54.7
+    },
+    "92865": {
+    "cost_of_living": 128,
+    "crime": 102,
+    "education": 0.06707117087569694,
+    "income": 31186,
+    "winter_temp": 56.9
+    },
+    "92866": {
+    "cost_of_living": 105,
+    "crime": 108,
+    "education": 0.06333818064307642,
+    "income": 30543,
+    "winter_temp": 58
+    },
+    "92868": {
+    "cost_of_living": 114,
+    "crime": 83,
+    "education": 0.026972560129678576,
+    "income": 23965,
+    "winter_temp": 58
+    },
+    "92870": {
+    "cost_of_living": 128,
+    "crime": 31,
+    "education": 0.12524035631597535,
+    "income": 32515,
+    "winter_temp": 56.9
+    },
+    "92880": {
+    "cost_of_living": 161,
+    "crime": 38,
+    "education": 0.02695134756737837,
+    "income": 29365,
+    "winter_temp": 54.7
+    },
+    "92881": {
+    "cost_of_living": 146,
+    "crime": 93,
+    "education": 0.06614355970602863,
+    "income": 32589,
+    "winter_temp": 54.7
+    },
+    "92882": {
+    "cost_of_living": 138,
+    "crime": 72,
+    "education": 0.07413174033236948,
+    "income": 24925,
+    "winter_temp": 54.7
+    },
+    "92886": {
+    "cost_of_living": 133,
+    "crime": 27,
+    "education": 0.196378497703001,
+    "income": 46870,
+    "winter_temp": 56.9
+    },
+    "92887": {
+    "cost_of_living": 140,
+    "crime": 10,
+    "education": 0.1764562038440847,
+    "income": 52324,
+    "winter_temp": 55.87
+    },
+    "93003": {
+    "cost_of_living": 108,
+    "crime": 59,
+    "education": 0.06564089440516938,
+    "income": 33795,
+    "winter_temp": 55.6
+    },
+    "93010": {
+    "cost_of_living": 116,
+    "crime": 18,
+    "education": 0.13995117982099267,
+    "income": 39971,
+    "winter_temp": 54.7
+    },
+    "93013": {
+    "cost_of_living": 113,
+    "crime": 37,
+    "education": 0.13832098490334802,
+    "income": 35229,
+    "winter_temp": 54.6
+    },
+    "93015": {
+    "cost_of_living": 139,
+    "crime": 43,
+    "education": 0.05539358600583091,
+    "income": 20022,
+    "winter_temp": 54.7
+    },
+    "93023": {
+    "cost_of_living": 105,
+    "crime": 33,
+    "education": 0.139075105101693,
+    "income": 40831,
+    "winter_temp": 52.5
+    },
+    "93030": {
+    "cost_of_living": 155,
+    "crime": 93,
+    "education": 0.025058784929184667,
+    "income": 18980,
+    "winter_temp": 55.6
+    },
+    "93033": {
+    "cost_of_living": 182,
+    "crime": 83,
+    "education": 0.037574525119009106,
+    "income": 14028,
+    "winter_temp": 55.6
+    },
+    "93041": {
+    "cost_of_living": 117,
+    "crime": 49,
+    "education": 0.0593019183625822,
+    "income": 22817,
+    "winter_temp": 55.6
+    },
+    "93060": {
+    "cost_of_living": 135,
+    "crime": 72,
+    "education": 0.04670912951167728,
+    "income": 20339,
+    "winter_temp": 54.7
+    },
+    "93063": {
+    "cost_of_living": 123,
+    "crime": 40,
+    "education": 0.12409193759676075,
+    "income": 33992,
+    "winter_temp": 53.7
+    },
+    "93065": {
+    "cost_of_living": 131,
+    "crime": 25,
+    "education": 0.10546430870809989,
+    "income": 38714,
+    "winter_temp": 53.7
+    },
+    "93103": {
+    "cost_of_living": 120,
+    "crime": 66,
+    "education": 0.11946511921281695,
+    "income": 40268,
+    "winter_temp": 54.6
+    },
+    "93108": {
+    "cost_of_living": 116,
+    "crime": 43,
+    "education": 0.1707990599294947,
+    "income": 91046,
+    "winter_temp": 54.6
+    },
+    "93109": {
+    "cost_of_living": 106,
+    "crime": 56,
+    "education": 0.13500686184812444,
+    "income": 59404,
+    "winter_temp": 54.6
+    },
+    "93110": {
+    "cost_of_living": 107,
+    "crime": 43,
+    "education": 0.1350270157938487,
+    "income": 43619,
+    "winter_temp": 53.19
+    },
+    "93111": {
+    "cost_of_living": 121,
+    "crime": 33,
+    "education": 0.15606905135559285,
+    "income": 45072,
+    "winter_temp": 53.1
+    },
+    "93117": {
+    "cost_of_living": 123,
+    "crime": 30,
+    "education": 0.04602784123079326,
+    "income": 26895,
+    "winter_temp": 53.1
+    },
+    "93203": {
+    "cost_of_living": 151,
+    "crime": 76,
+    "education": 0.005883891213389121,
+    "income": 9986,
+    "winter_temp": 46.9
+    },
+    "93210": {
+    "cost_of_living": 123,
+    "crime": 54,
+    "education": 0.02076683770352713,
+    "income": 15137,
+    "winter_temp": 48.01
+    },
+    "93212": {
+    "cost_of_living": 127,
+    "crime": 58,
+    "education": 0.0227946114644649,
+    "income": 8211,
+    "winter_temp": 46.1
+    },
+    "93221": {
+    "cost_of_living": 116,
+    "crime": 55,
+    "education": 0.06260989221007568,
+    "income": 22124,
+    "winter_temp": 46.62
+    },
+    "93230": {
+    "cost_of_living": 120,
+    "crime": 65,
+    "education": 0.045350401324444574,
+    "income": 22671,
+    "winter_temp": 44.7
+    },
+    "93241": {
+    "cost_of_living": 152,
+    "crime": 16,
+    "education": 0.009594882729211088,
+    "income": 9424,
+    "winter_temp": 47.8
+    },
+    "93247": {
+    "cost_of_living": 133,
+    "crime": 111,
+    "education": 0.02664796633941094,
+    "income": 13489,
+    "winter_temp": 47.1
+    },
+    "93257": {
+    "cost_of_living": 125,
+    "crime": 79,
+    "education": 0.03244713150460702,
+    "income": 16047,
+    "winter_temp": 48.7
+    },
+    "93263": {
+    "cost_of_living": 146,
+    "crime": 81,
+    "education": 0.014032288342406609,
+    "income": 15080,
+    "winter_temp": 46.6
+    },
+    "93268": {
+    "cost_of_living": 119,
+    "crime": 96,
+    "education": 0.01152008991289688,
+    "income": 19564,
+    "winter_temp": 47.8
+    },
+    "93274": {
+    "cost_of_living": 124,
+    "crime": 84,
+    "education": 0.0263069500427507,
+    "income": 18082,
+    "winter_temp": 45.8
+    },
+    "93277": {
+    "cost_of_living": 106,
+    "crime": 125,
+    "education": 0.055042291988907935,
+    "income": 24746,
+    "winter_temp": 45.8
+    },
+    "93280": {
+    "cost_of_living": 136,
+    "crime": 4,
+    "education": 0.01671836603150304,
+    "income": 10123,
+    "winter_temp": 46.6
+    },
+    "93291": {
+    "cost_of_living": 128,
+    "crime": 85,
+    "education": 0.02603135251167783,
+    "income": 21579,
+    "winter_temp": 45.8
+    },
+    "93301": {
+    "cost_of_living": 86,
+    "crime": 104,
+    "education": 0.015956665057003085,
+    "income": 20864,
+    "winter_temp": 47.8
+    },
+    "93304": {
+    "cost_of_living": 115,
+    "crime": 134,
+    "education": 0.028601738137010894,
+    "income": 14488,
+    "winter_temp": 47.8
+    },
+    "93306": {
+    "cost_of_living": 120,
+    "crime": 107,
+    "education": 0.057206146056749056,
+    "income": 21989,
+    "winter_temp": 47.8
+    },
+    "93307": {
+    "cost_of_living": 135,
+    "crime": 68,
+    "education": 0.009245705563687773,
+    "income": 11656,
+    "winter_temp": 47.8
+    },
+    "93308": {
+    "cost_of_living": 102,
+    "crime": 92,
+    "education": 0.021837384775847325,
+    "income": 22282,
+    "winter_temp": 47.8
+    },
+    "93309": {
+    "cost_of_living": 101,
+    "crime": 65,
+    "education": 0.06545263569299917,
+    "income": 23540,
+    "winter_temp": 47.8
+    },
+    "93311": {
+    "cost_of_living": 124,
+    "crime": 71,
+    "education": 0.06297815959311023,
+    "income": 35961,
+    "winter_temp": 47.8
+    },
+    "93312": {
+    "cost_of_living": 128,
+    "crime": 62,
+    "education": 0.06479319546364243,
+    "income": 35129,
+    "winter_temp": 47.8
+    },
+    "93313": {
+    "cost_of_living": 139,
+    "crime": 140,
+    "education": 0.032813395562105954,
+    "income": 20835,
+    "winter_temp": 47.8
+    },
+    "93314": {
+    "cost_of_living": 132,
+    "crime": 79,
+    "education": 0.06051282051282051,
+    "income": 37560,
+    "winter_temp": 47.8
+    },
+    "93402": {
+    "cost_of_living": 95,
+    "crime": 31,
+    "education": 0.238851870835469,
+    "income": 33130,
+    "winter_temp": 52
+    },
+    "93405": {
+    "cost_of_living": 140,
+    "crime": 47,
+    "education": 0.030007390983000738,
+    "income": 17585,
+    "winter_temp": 53.3
+    },
+    "93428": {
+    "cost_of_living": 93,
+    "crime": 39,
+    "education": 0.2074652777777778,
+    "income": 40597,
+    "winter_temp": 52
+    },
+    "93433": {
+    "cost_of_living": 99,
+    "crime": 50,
+    "education": 0.09900990099009901,
+    "income": 27249,
+    "winter_temp": 53.6
+    },
+    "93436": {
+    "cost_of_living": 118,
+    "crime": 55,
+    "education": 0.08242037934621428,
+    "income": 23838,
+    "winter_temp": 53.7
+    },
+    "93442": {
+    "cost_of_living": 85,
+    "crime": 44,
+    "education": 0.13589620374819797,
+    "income": 32758,
+    "winter_temp": 52
+    },
+    "93444": {
+    "cost_of_living": 117,
+    "crime": 23,
+    "education": 0.095547036272486,
+    "income": 29334,
+    "winter_temp": 51.6
+    },
+    "93446": {
+    "cost_of_living": 108,
+    "crime": 54,
+    "education": 0.06965466914620654,
+    "income": 31674,
+    "winter_temp": 47.93
+    },
+    "93449": {
+    "cost_of_living": 83,
+    "crime": 52,
+    "education": 0.14120328167730173,
+    "income": 44451,
+    "winter_temp": 53.6
+    },
+    "93455": {
+    "cost_of_living": 115,
+    "crime": 41,
+    "education": 0.08755562959613508,
+    "income": 31567,
+    "winter_temp": 51.6
+    },
+    "93465": {
+    "cost_of_living": 111,
+    "crime": 18,
+    "education": 0.07983699175696952,
+    "income": 36012,
+    "winter_temp": 47.3
+    },
+    "93505": {
+    "cost_of_living": 107,
+    "crime": 44,
+    "education": 0.04424103737604882,
+    "income": 18408,
+    "winter_temp": 46.1
+    },
+    "93514": {
+    "cost_of_living": 90,
+    "crime": 32,
+    "education": 0.07657657657657657,
+    "income": 28714,
+    "winter_temp": 38
+    },
+    "93534": {
+    "cost_of_living": 104,
+    "crime": 131,
+    "education": 0.029000368512970054,
+    "income": 17466,
+    "winter_temp": 43.9
+    },
+    "93535": {
+    "cost_of_living": 129,
+    "crime": 88,
+    "education": 0.047196464165005635,
+    "income": 15479,
+    "winter_temp": 46.6
+    },
+    "93536": {
+    "cost_of_living": 125,
+    "crime": 75,
+    "education": 0.0504329912638767,
+    "income": 24978,
+    "winter_temp": 43.9
+    },
+    "93543": {
+    "cost_of_living": 141,
+    "crime": 107,
+    "education": 0.03798384179428434,
+    "income": 17547,
+    "winter_temp": 45.9
+    },
+    "93546": {
+    "cost_of_living": 103,
+    "crime": 73,
+    "education": 0.1609843629838503,
+    "income": 32577,
+    "winter_temp": 29.7
+    },
+    "93550": {
+    "cost_of_living": 133,
+    "crime": 108,
+    "education": 0.03465360712546897,
+    "income": 14315,
+    "winter_temp": 46.6
+    },
+    "93551": {
+    "cost_of_living": 137,
+    "crime": 114,
+    "education": 0.06257029538862251,
+    "income": 30834,
+    "winter_temp": 46.6
+    },
+    "93560": {
+    "cost_of_living": 112,
+    "crime": 71,
+    "education": 0.04233343031713704,
+    "income": 22832,
+    "winter_temp": 43.9
+    },
+    "93610": {
+    "cost_of_living": 176,
+    "crime": 59,
+    "education": 0.02543887793922171,
+    "income": 13093,
+    "winter_temp": 46.01
+    },
+    "93611": {
+    "cost_of_living": 126,
+    "crime": 66,
+    "education": 0.11534290110222715,
+    "income": 30781,
+    "winter_temp": 46
+    },
+    "93612": {
+    "cost_of_living": 98,
+    "crime": 80,
+    "education": 0.049515630087919246,
+    "income": 19063,
+    "winter_temp": 46
+    },
+    "93614": {
+    "cost_of_living": 105,
+    "crime": 29,
+    "education": 0.11633057465905117,
+    "income": 30063,
+    "winter_temp": 46.4
+    },
+    "93618": {
+    "cost_of_living": 136,
+    "crime": 64,
+    "education": 0.022085164530782582,
+    "income": 13401,
+    "winter_temp": 46.1
+    },
+    "93619": {
+    "cost_of_living": 133,
+    "crime": 77,
+    "education": 0.06528485923298603,
+    "income": 41101,
+    "winter_temp": 46
+    },
+    "93630": {
+    "cost_of_living": 138,
+    "crime": 117,
+    "education": 0.02186930486852382,
+    "income": 15608,
+    "winter_temp": 45.7
+    },
+    "93631": {
+    "cost_of_living": 122,
+    "crime": 43,
+    "education": 0.08282285285660708,
+    "income": 24944,
+    "winter_temp": 45.81
+    },
+    "93635": {
+    "cost_of_living": 132,
+    "crime": 79,
+    "education": 0.03310624728221481,
+    "income": 16866,
+    "winter_temp": 45.9
+    },
+    "93636": {
+    "cost_of_living": 132,
+    "crime": 35,
+    "education": 0.07995213749592081,
+    "income": 28950,
+    "winter_temp": 46.38
+    },
+    "93640": {
+    "cost_of_living": 156,
+    "crime": 67,
+    "education": 0.004136980004596644,
+    "income": 7273,
+    "winter_temp": 44.65
+    },
+    "93644": {
+    "cost_of_living": 97,
+    "crime": 56,
+    "education": 0.08367930620905988,
+    "income": 25983,
+    "winter_temp": 35.1
+    },
+    "93648": {
+    "cost_of_living": 150,
+    "crime": 59,
+    "education": 0.01699575106223444,
+    "income": 10359,
+    "winter_temp": 46.01
+    },
+    "93654": {
+    "cost_of_living": 138,
+    "crime": 80,
+    "education": 0.03918416557821762,
+    "income": 17437,
+    "winter_temp": 46.1
+    },
+    "93662": {
+    "cost_of_living": 135,
+    "crime": 91,
+    "education": 0.029512111907198907,
+    "income": 15242,
+    "winter_temp": 45.88
+    },
+    "93711": {
+    "cost_of_living": 102,
+    "crime": 194,
+    "education": 0.14472608340147178,
+    "income": 39015,
+    "winter_temp": 46
+    },
+    "93720": {
+    "cost_of_living": 111,
+    "crime": 88,
+    "education": 0.11891307155773702,
+    "income": 36396,
+    "winter_temp": 46
+    },
+    "93722": {
+    "cost_of_living": 125,
+    "crime": 176,
+    "education": 0.06394920597507439,
+    "income": 20400,
+    "winter_temp": 45.74
+    },
+    "93725": {
+    "cost_of_living": 141,
+    "crime": 196,
+    "education": 0.016126782176836583,
+    "income": 12158,
+    "winter_temp": 46
+    },
+    "93726": {
+    "cost_of_living": 105,
+    "crime": 168,
+    "education": 0.05014607869989957,
+    "income": 14885,
+    "winter_temp": 46
+    },
+    "93727": {
+    "cost_of_living": 126,
+    "crime": 116,
+    "education": 0.04126023399713583,
+    "income": 18728,
+    "winter_temp": 46
+    },
+    "93728": {
+    "cost_of_living": 101,
+    "crime": 274,
+    "education": 0.061040936446002246,
+    "income": 16514,
+    "winter_temp": 46
+    },
+    "93730": {
+    "cost_of_living": 121,
+    "crime": 46,
+    "education": 0.18405703175631885,
+    "income": 50135,
+    "winter_temp": 46
+    },
+    "93901": {
+    "cost_of_living": 105,
+    "crime": 222,
+    "education": 0.042842497935472845,
+    "income": 26271,
+    "winter_temp": 51.7
+    },
+    "93906": {
+    "cost_of_living": 136,
+    "crime": 69,
+    "education": 0.05466900816980988,
+    "income": 20261,
+    "winter_temp": 51.41
+    },
+    "93907": {
+    "cost_of_living": 126,
+    "crime": 48,
+    "education": 0.09903961584633854,
+    "income": 27612,
+    "winter_temp": 51.7
+    },
+    "93908": {
+    "cost_of_living": 126,
+    "crime": 52,
+    "education": 0.15165706051873198,
+    "income": 50473,
+    "winter_temp": 51.7
+    },
+    "93923": {
+    "cost_of_living": 98,
+    "crime": 31,
+    "education": 0.1821757836508912,
+    "income": 73546,
+    "winter_temp": 51.6
+    },
+    "93927": {
+    "cost_of_living": 171,
+    "crime": 42,
+    "education": 0.017041581458759374,
+    "income": 14016,
+    "winter_temp": 49.27
+    },
+    "93930": {
+    "cost_of_living": 148,
+    "crime": 74,
+    "education": 0.03387644263408011,
+    "income": 15563,
+    "winter_temp": 50.2
+    },
+    "93940": {
+    "cost_of_living": 97,
+    "crime": 41,
+    "education": 0.07033833205303765,
+    "income": 40098,
+    "winter_temp": 51.6
+    },
+    "93950": {
+    "cost_of_living": 92,
+    "crime": 49,
+    "education": 0.2022270829190694,
+    "income": 49446,
+    "winter_temp": 51.6
+    },
+    "93960": {
+    "cost_of_living": 260,
+    "crime": 72,
+    "education": 0.014827920299928387,
+    "income": 10529,
+    "winter_temp": 48.2
+    },
+    "94010": {
+    "cost_of_living": 127,
+    "crime": 35,
+    "education": 0.15502504173622705,
+    "income": 85384,
+    "winter_temp": 50
+    },
+    "94015": {
+    "cost_of_living": 142,
+    "crime": 28,
+    "education": 0.2569146954740175,
+    "income": 31300,
+    "winter_temp": 50.6
+    },
+    "94019": {
+    "cost_of_living": 137,
+    "crime": 43,
+    "education": 0.1973065684157032,
+    "income": 53041,
+    "winter_temp": 49.44
+    },
+    "94022": {
+    "cost_of_living": 135,
+    "crime": 17,
+    "education": 0.09118737858362277,
+    "income": 103657,
+    "winter_temp": 49
+    },
+    "94024": {
+    "cost_of_living": 147,
+    "crime": 22,
+    "education": 0.3057314135245672,
+    "income": 87441,
+    "winter_temp": 49
+    },
+    "94025": {
+    "cost_of_living": 134,
+    "crime": 62,
+    "education": 0.1520456333595594,
+    "income": 74125,
+    "winter_temp": 49
+    },
+    "94030": {
+    "cost_of_living": 130,
+    "crime": 32,
+    "education": 0.17709807886754297,
+    "income": 45398,
+    "winter_temp": 49.4
+    },
+    "94040": {
+    "cost_of_living": 113,
+    "crime": 28,
+    "education": 0.19483330927983836,
+    "income": 59541,
+    "winter_temp": 49
+    },
+    "94041": {
+    "cost_of_living": 103,
+    "crime": 35,
+    "education": 0.17676259896946087,
+    "income": 63017,
+    "winter_temp": 49
+    },
+    "94044": {
+    "cost_of_living": 130,
+    "crime": 38,
+    "education": 0.276055335616743,
+    "income": 45850,
+    "winter_temp": 50.2
+    },
+    "94065": {
+    "cost_of_living": 125,
+    "crime": 54,
+    "education": 0.12380792337100366,
+    "income": 68978,
+    "winter_temp": 48.4
+    },
+    "94066": {
+    "cost_of_living": 131,
+    "crime": 42,
+    "education": 0.10865569566146613,
+    "income": 37031,
+    "winter_temp": 49.4
+    },
+    "94080": {
+    "cost_of_living": 142,
+    "crime": 46,
+    "education": 0.0772500589020655,
+    "income": 32355,
+    "winter_temp": 49.8
+    },
+    "94086": {
+    "cost_of_living": 115,
+    "crime": 36,
+    "education": 0.20747505721840767,
+    "income": 49883,
+    "winter_temp": 50.22
+    },
+    "94087": {
+    "cost_of_living": 130,
+    "crime": 44,
+    "education": 0.2829105285452064,
+    "income": 57515,
+    "winter_temp": 48.7
+    },
+    "94089": {
+    "cost_of_living": 122,
+    "crime": 44,
+    "education": 0.05969567863664029,
+    "income": 38289,
+    "winter_temp": 50.5
+    },
+    "94102": {
+    "cost_of_living": 77,
+    "crime": 84,
+    "education": 0.0638466846333112,
+    "income": 41274,
+    "winter_temp": 52.3
+    },
+    "94103": {
+    "cost_of_living": 90,
+    "crime": 109,
+    "education": 0.03938586807911607,
+    "income": 56088,
+    "winter_temp": 52.3
+    },
+    "94105": {
+    "cost_of_living": 78,
+    "crime": 253,
+    "education": 0.007333763718528083,
+    "income": 147591,
+    "winter_temp": 52.3
+    },
+    "94107": {
+    "cost_of_living": 93,
+    "crime": 177,
+    "education": 0.07042725155634028,
+    "income": 85198,
+    "winter_temp": 52.3
+    },
+    "94108": {
+    "cost_of_living": 81,
+    "crime": 82,
+    "education": 0.05353309772121159,
+    "income": 54176,
+    "winter_temp": 52.3
+    },
+    "94109": {
+    "cost_of_living": 77,
+    "crime": 98,
+    "education": 0.2628863371945976,
+    "income": 63948,
+    "winter_temp": 52.3
+    },
+    "94110": {
+    "cost_of_living": 120,
+    "crime": 133,
+    "education": 0.22941490921004984,
+    "income": 49666,
+    "winter_temp": 52.3
+    },
+    "94112": {
+    "cost_of_living": 166,
+    "crime": 138,
+    "education": 0.09805935340308534,
+    "income": 26136,
+    "winter_temp": 52.3
+    },
+    "94114": {
+    "cost_of_living": 97,
+    "crime": 185,
+    "education": 0.4506087098619168,
+    "income": 87059,
+    "winter_temp": 52.3
+    },
+    "94115": {
+    "cost_of_living": 89,
+    "crime": 129,
+    "education": 0.2389176187612748,
+    "income": 72564,
+    "winter_temp": 52.3
+    },
+    "94116": {
+    "cost_of_living": 137,
+    "crime": 183,
+    "education": 0.2782559349285917,
+    "income": 45800,
+    "winter_temp": 50.6
+    },
+    "94117": {
+    "cost_of_living": 100,
+    "crime": 135,
+    "education": 0.3093098926715555,
+    "income": 65274,
+    "winter_temp": 52.3
+    },
+    "94118": {
+    "cost_of_living": 110,
+    "crime": 116,
+    "education": 0.2447460096996744,
+    "income": 63662,
+    "winter_temp": 52.3
+    },
+    "94121": {
+    "cost_of_living": 112,
+    "crime": 120,
+    "education": 0.3229903115998953,
+    "income": 47973,
+    "winter_temp": 50.6
+    },
+    "94122": {
+    "cost_of_living": 121,
+    "crime": 161,
+    "education": 0.3585568504990799,
+    "income": 44531,
+    "winter_temp": 50.6
+    },
+    "94123": {
+    "cost_of_living": 85,
+    "crime": 212,
+    "education": 0.42688077226528054,
+    "income": 100902,
+    "winter_temp": 52.3
+    },
+    "94127": {
+    "cost_of_living": 137,
+    "crime": 155,
+    "education": 0.305058206821431,
+    "income": 67464,
+    "winter_temp": 52.3
+    },
+    "94158": {
+    "cost_of_living": 87,
+    "crime": 317,
+    "education": 0.015648510382184774,
+    "income": 77960,
+    "winter_temp": 52.3
+    },
+    "94301": {
+    "cost_of_living": 114,
+    "crime": 53,
+    "education": 0.08907563025210084,
+    "income": 101613,
+    "winter_temp": 49
+    },
+    "94303": {
+    "cost_of_living": 156,
+    "crime": 106,
+    "education": 0.11293353439276187,
+    "income": 40184,
+    "winter_temp": 49
+    },
+    "94305": {
+    "cost_of_living": 131,
+    "crime": 27,
+    "education": 0.020667578319244158,
+    "income": 52349,
+    "winter_temp": 49
+    },
+    "94403": {
+    "cost_of_living": 122,
+    "crime": 43,
+    "education": 0.12584794910547958,
+    "income": 51920,
+    "winter_temp": 48.4
+    },
+    "94404": {
+    "cost_of_living": 123,
+    "crime": 19,
+    "education": 0.12892872282444134,
+    "income": 59678,
+    "winter_temp": 48.4
+    },
+    "94501": {
+    "cost_of_living": 106,
+    "crime": 66,
+    "education": 0.16327502997141188,
+    "income": 42268,
+    "winter_temp": 50.9
+    },
+    "94502": {
+    "cost_of_living": 128,
+    "crime": 26,
+    "education": 0.22687110187110188,
+    "income": 53558,
+    "winter_temp": 50.9
+    },
+    "94503": {
+    "cost_of_living": 149,
+    "crime": 35,
+    "education": 0.05778546712802768,
+    "income": 28574,
+    "winter_temp": 47.9
+    },
+    "94505": {
+    "cost_of_living": 132,
+    "crime": 33,
+    "education": 0.21475185915920472,
+    "income": 43981,
+    "winter_temp": 47.1
+    },
+    "94506": {
+    "cost_of_living": 155,
+    "crime": 32,
+    "education": 0.2863772863772864,
+    "income": 69519,
+    "winter_temp": 47.5
+    },
+    "94507": {
+    "cost_of_living": 143,
+    "crime": 48,
+    "education": 0.26686301271460383,
+    "income": 78840,
+    "winter_temp": 47.5
+    },
+    "94509": {
+    "cost_of_living": 123,
+    "crime": 86,
+    "education": 0.06548563534880247,
+    "income": 22725,
+    "winter_temp": 45.7
+    },
+    "94513": {
+    "cost_of_living": 138,
+    "crime": 61,
+    "education": 0.04392191659272405,
+    "income": 33726,
+    "winter_temp": 45.7
+    },
+    "94517": {
+    "cost_of_living": 133,
+    "crime": 28,
+    "education": 0.2636760471812018,
+    "income": 55259,
+    "winter_temp": 47.5
+    },
+    "94521": {
+    "cost_of_living": 120,
+    "crime": 73,
+    "education": 0.21620997790747518,
+    "income": 39261,
+    "winter_temp": 47.5
+    },
+    "94523": {
+    "cost_of_living": 108,
+    "crime": 54,
+    "education": 0.09427434006626055,
+    "income": 44943,
+    "winter_temp": 46.3
+    },
+    "94533": {
+    "cost_of_living": 124,
+    "crime": 87,
+    "education": 0.05267301892331919,
+    "income": 23448,
+    "winter_temp": 46.1
+    },
+    "94534": {
+    "cost_of_living": 131,
+    "crime": 92,
+    "education": 0.08120757344266734,
+    "income": 38453,
+    "winter_temp": 46.1
+    },
+    "94536": {
+    "cost_of_living": 131,
+    "crime": 46,
+    "education": 0.21748818625379385,
+    "income": 39842,
+    "winter_temp": 49.8
+    },
+    "94538": {
+    "cost_of_living": 129,
+    "crime": 59,
+    "education": 0.07477199001341735,
+    "income": 37730,
+    "winter_temp": 49.8
+    },
+    "94539": {
+    "cost_of_living": 159,
+    "crime": 42,
+    "education": 0.13653477095266697,
+    "income": 52903,
+    "winter_temp": 49.8
+    },
+    "94541": {
+    "cost_of_living": 124,
+    "crime": 82,
+    "education": 0.08892134450935568,
+    "income": 25257,
+    "winter_temp": 49.7
+    },
+    "94542": {
+    "cost_of_living": 128,
+    "crime": 100,
+    "education": 0.08635717851246016,
+    "income": 42309,
+    "winter_temp": 49.8
+    },
+    "94544": {
+    "cost_of_living": 138,
+    "crime": 86,
+    "education": 0.07649410774410774,
+    "income": 22837,
+    "winter_temp": 49.8
+    },
+    "94546": {
+    "cost_of_living": 116,
+    "crime": 59,
+    "education": 0.16078501444355103,
+    "income": 36797,
+    "winter_temp": 49.7
+    },
+    "94547": {
+    "cost_of_living": 135,
+    "crime": 30,
+    "education": 0.19160965681008651,
+    "income": 37952,
+    "winter_temp": 46.97
+    },
+    "94550": {
+    "cost_of_living": 126,
+    "crime": 62,
+    "education": 0.09700333322546197,
+    "income": 47166,
+    "winter_temp": 47.2
+    },
+    "94551": {
+    "cost_of_living": 130,
+    "crime": 48,
+    "education": 0.06948219138892862,
+    "income": 41361,
+    "winter_temp": 47.2
+    },
+    "94552": {
+    "cost_of_living": 145,
+    "crime": 35,
+    "education": 0.2927959002660885,
+    "income": 54248,
+    "winter_temp": 49.7
+    },
+    "94553": {
+    "cost_of_living": 114,
+    "crime": 46,
+    "education": 0.14695232347616174,
+    "income": 39523,
+    "winter_temp": 46.3
+    },
+    "94556": {
+    "cost_of_living": 142,
+    "crime": 15,
+    "education": 0.17417444364680545,
+    "income": 69934,
+    "winter_temp": 49.7
+    },
+    "94558": {
+    "cost_of_living": 119,
+    "crime": 42,
+    "education": 0.0857061130114537,
+    "income": 36335,
+    "winter_temp": 47.9
+    },
+    "94560": {
+    "cost_of_living": 145,
+    "crime": 70,
+    "education": 0.09790616518030244,
+    "income": 30567,
+    "winter_temp": 49.8
+    },
+    "94563": {
+    "cost_of_living": 135,
+    "crime": 18,
+    "education": 0.3268125041305928,
+    "income": 84351,
+    "winter_temp": 50
+    },
+    "94564": {
+    "cost_of_living": 121,
+    "crime": 87,
+    "education": 0.13395283121399848,
+    "income": 34722,
+    "winter_temp": 50
+    },
+    "94565": {
+    "cost_of_living": 134,
+    "crime": 72,
+    "education": 0.06588752479493915,
+    "income": 21998,
+    "winter_temp": 47.5
+    },
+    "94566": {
+    "cost_of_living": 132,
+    "crime": 37,
+    "education": 0.15028197236051147,
+    "income": 55195,
+    "winter_temp": 47.2
+    },
+    "94568": {
+    "cost_of_living": 126,
+    "crime": 44,
+    "education": 0.09913043478260869,
+    "income": 46469,
+    "winter_temp": 47.2
+    },
+    "94571": {
+    "cost_of_living": 94,
+    "crime": 60,
+    "education": 0.06155909971679833,
+    "income": 33991,
+    "winter_temp": 45.7
+    },
+    "94574": {
+    "cost_of_living": 110,
+    "crime": 33,
+    "education": 0.10383470495534933,
+    "income": 54873,
+    "winter_temp": 47.9
+    },
+    "94577": {
+    "cost_of_living": 117,
+    "crime": 86,
+    "education": 0.08666469252788471,
+    "income": 30539,
+    "winter_temp": 49.7
+    },
+    "94578": {
+    "cost_of_living": 113,
+    "crime": 60,
+    "education": 0.09230503298666129,
+    "income": 24360,
+    "winter_temp": 49.7
+    },
+    "94579": {
+    "cost_of_living": 135,
+    "crime": 96,
+    "education": 0.1835965685881504,
+    "income": 28354,
+    "winter_temp": 49.7
+    },
+    "94580": {
+    "cost_of_living": 136,
+    "crime": 66,
+    "education": 0.09301146160868243,
+    "income": 26434,
+    "winter_temp": 49.7
+    },
+    "94582": {
+    "cost_of_living": 141,
+    "crime": 30,
+    "education": 0.20778119368175554,
+    "income": 55572,
+    "winter_temp": 47.5
+    },
+    "94583": {
+    "cost_of_living": 135,
+    "crime": 27,
+    "education": 0.10163411717815862,
+    "income": 52110,
+    "winter_temp": 47.5
+    },
+    "94587": {
+    "cost_of_living": 152,
+    "crime": 64,
+    "education": 0.14174726240908,
+    "income": 30245,
+    "winter_temp": 49.8
+    },
+    "94589": {
+    "cost_of_living": 134,
+    "crime": 84,
+    "education": 0.10916468339120595,
+    "income": 20667,
+    "winter_temp": 47.9
+    },
+    "94590": {
+    "cost_of_living": 101,
+    "crime": 189,
+    "education": 0.07298850574712644,
+    "income": 22284,
+    "winter_temp": 46.3
+    },
+    "94591": {
+    "cost_of_living": 127,
+    "crime": 109,
+    "education": 0.18416141508668488,
+    "income": 30790,
+    "winter_temp": 46.3
+    },
+    "94601": {
+    "cost_of_living": 131,
+    "crime": 131,
+    "education": 0.05387951577542656,
+    "income": 16479,
+    "winter_temp": 50.33
+    },
+    "94603": {
+    "cost_of_living": 138,
+    "crime": 187,
+    "education": 0.03338014042126379,
+    "income": 15658,
+    "winter_temp": 49.7
+    },
+    "94605": {
+    "cost_of_living": 113,
+    "crime": 175,
+    "education": 0.13168238993710693,
+    "income": 30175,
+    "winter_temp": 49.7
+    },
+    "94606": {
+    "cost_of_living": 100,
+    "crime": 108,
+    "education": 0.13328106624852998,
+    "income": 22905,
+    "winter_temp": 50.9
+    },
+    "94608": {
+    "cost_of_living": 89,
+    "crime": 187,
+    "education": 0.06207514144991248,
+    "income": 39470,
+    "winter_temp": 50.7
+    },
+    "94610": {
+    "cost_of_living": 87,
+    "crime": 110,
+    "education": 0.3701311222522175,
+    "income": 59633,
+    "winter_temp": 50.9
+    },
+    "94611": {
+    "cost_of_living": 103,
+    "crime": 124,
+    "education": 0.29457340970756707,
+    "income": 75538,
+    "winter_temp": 50.9
+    },
+    "94612": {
+    "cost_of_living": 73,
+    "crime": 134,
+    "education": 0.024537861626519566,
+    "income": 38045,
+    "winter_temp": 50.9
+    },
+    "94618": {
+    "cost_of_living": 111,
+    "crime": 217,
+    "education": 0.2910383880950813,
+    "income": 83021,
+    "winter_temp": 50
+    },
+    "94619": {
+    "cost_of_living": 115,
+    "crime": 153,
+    "education": 0.12372435560231457,
+    "income": 41760,
+    "winter_temp": 49.7
+    },
+    "94621": {
+    "cost_of_living": 131,
+    "crime": 208,
+    "education": 0.009445843828715366,
+    "income": 12607,
+    "winter_temp": 49.7
+    },
+    "94702": {
+    "cost_of_living": 94,
+    "crime": 140,
+    "education": 0.2633973710819009,
+    "income": 39543,
+    "winter_temp": 50
+    },
+    "94703": {
+    "cost_of_living": 95,
+    "crime": 130,
+    "education": 0.2813337302768681,
+    "income": 40415,
+    "winter_temp": 50
+    },
+    "94704": {
+    "cost_of_living": 100,
+    "crime": 64,
+    "education": 0.046005189227878676,
+    "income": 29548,
+    "winter_temp": 50
+    },
+    "94705": {
+    "cost_of_living": 105,
+    "crime": 118,
+    "education": 0.16993343195266272,
+    "income": 71362,
+    "winter_temp": 50
+    },
+    "94706": {
+    "cost_of_living": 110,
+    "crime": 63,
+    "education": 0.23447928472484575,
+    "income": 44179,
+    "winter_temp": 50
+    },
+    "94707": {
+    "cost_of_living": 119,
+    "crime": 127,
+    "education": 0.359523507793689,
+    "income": 76473,
+    "winter_temp": 50
+    },
+    "94708": {
+    "cost_of_living": 116,
+    "crime": 121,
+    "education": 0.4050883607556368,
+    "income": 79286,
+    "winter_temp": 50
+    },
+    "94709": {
+    "cost_of_living": 91,
+    "crime": 121,
+    "education": 0.19329123914759275,
+    "income": 45427,
+    "winter_temp": 50
+    },
+    "94801": {
+    "cost_of_living": 124,
+    "crime": 206,
+    "education": 0.041198240346344527,
+    "income": 18502,
+    "winter_temp": 50
+    },
+    "94803": {
+    "cost_of_living": 121,
+    "crime": 103,
+    "education": 0.20012037315678605,
+    "income": 36238,
+    "winter_temp": 50
+    },
+    "94804": {
+    "cost_of_living": 112,
+    "crime": 180,
+    "education": 0.08096932638331997,
+    "income": 23909,
+    "winter_temp": 50
+    },
+    "94805": {
+    "cost_of_living": 114,
+    "crime": 206,
+    "education": 0.15267519365880022,
+    "income": 30032,
+    "winter_temp": 50
+    },
+    "94901": {
+    "cost_of_living": 122,
+    "crime": 59,
+    "education": 0.1575573253982146,
+    "income": 46231,
+    "winter_temp": 48.8
+    },
+    "94904": {
+    "cost_of_living": 115,
+    "crime": 27,
+    "education": 0.14869258597792737,
+    "income": 88330,
+    "winter_temp": 48.5
+    },
+    "94920": {
+    "cost_of_living": 122,
+    "crime": 23,
+    "education": 0.3613978494623656,
+    "income": 100309,
+    "winter_temp": 51.61
+    },
+    "94925": {
+    "cost_of_living": 123,
+    "crime": 3,
+    "education": 0.23848742472546935,
+    "income": 67865,
+    "winter_temp": 48.5
+    },
+    "94928": {
+    "cost_of_living": 117,
+    "crime": 45,
+    "education": 0.09297671033478894,
+    "income": 27560,
+    "winter_temp": 48.4
+    },
+    "94931": {
+    "cost_of_living": 109,
+    "crime": 60,
+    "education": 0.09342748506246605,
+    "income": 32949,
+    "winter_temp": 48.4
+    },
+    "94945": {
+    "cost_of_living": 124,
+    "crime": 65,
+    "education": 0.14886050588529928,
+    "income": 48389,
+    "winter_temp": 48.8
+    },
+    "94947": {
+    "cost_of_living": 123,
+    "crime": 31,
+    "education": 0.20473982483256054,
+    "income": 45206,
+    "winter_temp": 48.8
+    },
+    "94949": {
+    "cost_of_living": 118,
+    "crime": 22,
+    "education": 0.15316237474410085,
+    "income": 48381,
+    "winter_temp": 48.8
+    },
+    "94954": {
+    "cost_of_living": 130,
+    "crime": 30,
+    "education": 0.11675718638230229,
+    "income": 33918,
+    "winter_temp": 48.4
+    },
+    "94960": {
+    "cost_of_living": 124,
+    "crime": 31,
+    "education": 0.3143288084464555,
+    "income": 66135,
+    "winter_temp": 48.79
+    },
+    "94965": {
+    "cost_of_living": 92,
+    "crime": 33,
+    "education": 0.26914609215285423,
+    "income": 75706,
+    "winter_temp": 51.94
+    },
+    "95006": {
+    "cost_of_living": 106,
+    "crime": 56,
+    "education": 0.3444272445820433,
+    "income": 42590,
+    "winter_temp": 48.9
+    },
+    "95008": {
+    "cost_of_living": 113,
+    "crime": 62,
+    "education": 0.16604558969276512,
+    "income": 47677,
+    "winter_temp": 48.7
+    },
+    "95010": {
+    "cost_of_living": 93,
+    "crime": 54,
+    "education": 0.13117699910152741,
+    "income": 41608,
+    "winter_temp": 50.6
+    },
+    "95014": {
+    "cost_of_living": 142,
+    "crime": 29,
+    "education": 0.10027181630086414,
+    "income": 58438,
+    "winter_temp": 48.7
+    },
+    "95020": {
+    "cost_of_living": 149,
+    "crime": 59,
+    "education": 0.06479148533296684,
+    "income": 30627,
+    "winter_temp": 49.7
+    },
+    "95023": {
+    "cost_of_living": 138,
+    "crime": 35,
+    "education": 0.07195522186755383,
+    "income": 25549,
+    "winter_temp": 49.5
+    },
+    "95030": {
+    "cost_of_living": 124,
+    "crime": 16,
+    "education": 0.18814831163098653,
+    "income": 97252,
+    "winter_temp": 48.7
+    },
+    "95035": {
+    "cost_of_living": 157,
+    "crime": 62,
+    "education": 0.09586792542340718,
+    "income": 35252,
+    "winter_temp": 50.5
+    },
+    "95037": {
+    "cost_of_living": 142,
+    "crime": 64,
+    "education": 0.11634833683947429,
+    "income": 43649,
+    "winter_temp": 49.7
+    },
+    "95050": {
+    "cost_of_living": 115,
+    "crime": 61,
+    "education": 0.062121159840355177,
+    "income": 40165,
+    "winter_temp": 50.5
+    },
+    "95051": {
+    "cost_of_living": 124,
+    "crime": 57,
+    "education": 0.17750809061488673,
+    "income": 45878,
+    "winter_temp": 50.5
+    },
+    "95054": {
+    "cost_of_living": 129,
+    "crime": 37,
+    "education": 0.02707989764003412,
+    "income": 49885,
+    "winter_temp": 50.5
+    },
+    "95060": {
+    "cost_of_living": 108,
+    "crime": 97,
+    "education": 0.11186504163425245,
+    "income": 38968,
+    "winter_temp": 50.6
+    },
+    "95062": {
+    "cost_of_living": 103,
+    "crime": 47,
+    "education": 0.17715796918724439,
+    "income": 35597,
+    "winter_temp": 50.6
+    },
+    "95066": {
+    "cost_of_living": 122,
+    "crime": 58,
+    "education": 0.13524590163934427,
+    "income": 48767,
+    "winter_temp": 48.9
+    },
+    "95073": {
+    "cost_of_living": 113,
+    "crime": 39,
+    "education": 0.06509647474011278,
+    "income": 42949,
+    "winter_temp": 50.6
+    },
+    "95076": {
+    "cost_of_living": 150,
+    "crime": 67,
+    "education": 0.05684388004977854,
+    "income": 20737,
+    "winter_temp": 49.7
+    },
+    "95110": {
+    "cost_of_living": 120,
+    "crime": 94,
+    "education": 0.025287299385773728,
+    "income": 29035,
+    "winter_temp": 50.5
+    },
+    "95111": {
+    "cost_of_living": 162,
+    "crime": 35,
+    "education": 0.09008490069874027,
+    "income": 19619,
+    "winter_temp": 50.5
+    },
+    "95112": {
+    "cost_of_living": 117,
+    "crime": 90,
+    "education": 0.02835082051674801,
+    "income": 29969,
+    "winter_temp": 50.5
+    },
+    "95121": {
+    "cost_of_living": 181,
+    "crime": 59,
+    "education": 0.12920757998478205,
+    "income": 27323,
+    "winter_temp": 50.5
+    },
+    "95123": {
+    "cost_of_living": 132,
+    "crime": 71,
+    "education": 0.1709578963844107,
+    "income": 37208,
+    "winter_temp": 48.7
+    },
+    "95124": {
+    "cost_of_living": 133,
+    "crime": 72,
+    "education": 0.1997022382598602,
+    "income": 48898,
+    "winter_temp": 48.7
+    },
+    "95125": {
+    "cost_of_living": 120,
+    "crime": 96,
+    "education": 0.19551859652170137,
+    "income": 57287,
+    "winter_temp": 50.5
+    },
+    "95126": {
+    "cost_of_living": 106,
+    "crime": 97,
+    "education": 0.10829906438881683,
+    "income": 44599,
+    "winter_temp": 50.5
+    },
+    "95127": {
+    "cost_of_living": 169,
+    "crime": 47,
+    "education": 0.10758377425044091,
+    "income": 24031,
+    "winter_temp": 50.5
+    },
+    "95128": {
+    "cost_of_living": 113,
+    "crime": 85,
+    "education": 0.08127119918461462,
+    "income": 41146,
+    "winter_temp": 49.67
+    },
+    "95129": {
+    "cost_of_living": 132,
+    "crime": 56,
+    "education": 0.21797813470103927,
+    "income": 49594,
+    "winter_temp": 48.7
+    },
+    "95130": {
+    "cost_of_living": 126,
+    "crime": 62,
+    "education": 0.31544619033501337,
+    "income": 43064,
+    "winter_temp": 48.7
+    },
+    "95131": {
+    "cost_of_living": 147,
+    "crime": 58,
+    "education": 0.06664240312999622,
+    "income": 39056,
+    "winter_temp": 50.5
+    },
+    "95133": {
+    "cost_of_living": 154,
+    "crime": 28,
+    "education": 0.12631237585633792,
+    "income": 27353,
+    "winter_temp": 50.5
+    },
+    "95135": {
+    "cost_of_living": 147,
+    "crime": 126,
+    "education": 0.11076254076719988,
+    "income": 51829,
+    "winter_temp": 43.5
+    },
+    "95136": {
+    "cost_of_living": 130,
+    "crime": 72,
+    "education": 0.2573166581589246,
+    "income": 38977,
+    "winter_temp": 50.5
+    },
+    "95138": {
+    "cost_of_living": 164,
+    "crime": 44,
+    "education": 0.08612055088535146,
+    "income": 53586,
+    "winter_temp": 43.78
+    },
+    "95203": {
+    "cost_of_living": 106,
+    "crime": 206,
+    "education": 0.036083059117213205,
+    "income": 16747,
+    "winter_temp": 45.7
+    },
+    "95206": {
+    "cost_of_living": 147,
+    "crime": 95,
+    "education": 0.028069733778085467,
+    "income": 13511,
+    "winter_temp": 46
+    },
+    "95207": {
+    "cost_of_living": 101,
+    "crime": 128,
+    "education": 0.04115726242351971,
+    "income": 20267,
+    "winter_temp": 45.7
+    },
+    "95212": {
+    "cost_of_living": 145,
+    "crime": 73,
+    "education": 0.03860501431421879,
+    "income": 21167,
+    "winter_temp": 45.92
+    },
+    "95215": {
+    "cost_of_living": 129,
+    "crime": 61,
+    "education": 0.024939855653568564,
+    "income": 17938,
+    "winter_temp": 46
+    },
+    "95240": {
+    "cost_of_living": 112,
+    "crime": 61,
+    "education": 0.04411531759860605,
+    "income": 20627,
+    "winter_temp": 46.1
+    },
+    "95252": {
+    "cost_of_living": 107,
+    "crime": 36,
+    "education": 0.09082078678970373,
+    "income": 28070,
+    "winter_temp": 45.8
+    },
+    "95304": {
+    "cost_of_living": 166,
+    "crime": 68,
+    "education": 0.02348012470771629,
+    "income": 28332,
+    "winter_temp": 44.9
+    },
+    "95307": {
+    "cost_of_living": 130,
+    "crime": 72,
+    "education": 0.02425418384671356,
+    "income": 18151,
+    "winter_temp": 47.2
+    },
+    "95320": {
+    "cost_of_living": 117,
+    "crime": 53,
+    "education": 0.0631388511985527,
+    "income": 26010,
+    "winter_temp": 47.2
+    },
+    "95326": {
+    "cost_of_living": 123,
+    "crime": 67,
+    "education": 0.02837650781095511,
+    "income": 23259,
+    "winter_temp": 47.2
+    },
+    "95330": {
+    "cost_of_living": 145,
+    "crime": 49,
+    "education": 0.02444505595303614,
+    "income": 19009,
+    "winter_temp": 46
+    },
+    "95334": {
+    "cost_of_living": 152,
+    "crime": 65,
+    "education": 0.018487843975420786,
+    "income": 15776,
+    "winter_temp": 46.4
+    },
+    "95336": {
+    "cost_of_living": 118,
+    "crime": 56,
+    "education": 0.03981858200493563,
+    "income": 23870,
+    "winter_temp": 46
+    },
+    "95338": {
+    "cost_of_living": 95,
+    "crime": 73,
+    "education": 0.09576662410372262,
+    "income": 28378,
+    "winter_temp": 35.1
+    },
+    "95341": {
+    "cost_of_living": 141,
+    "crime": 51,
+    "education": 0.014866204162537165,
+    "income": 12165,
+    "winter_temp": 46.3
+    },
+    "95350": {
+    "cost_of_living": 100,
+    "crime": 136,
+    "education": 0.0432616483711603,
+    "income": 22471,
+    "winter_temp": 47.2
+    },
+    "95354": {
+    "cost_of_living": 105,
+    "crime": 116,
+    "education": 0.03157475016821591,
+    "income": 19407,
+    "winter_temp": 47.2
+    },
+    "95355": {
+    "cost_of_living": 111,
+    "crime": 78,
+    "education": 0.08317868778093943,
+    "income": 26778,
+    "winter_temp": 47.2
+    },
+    "95357": {
+    "cost_of_living": 124,
+    "crime": 89,
+    "education": 0.058029355298197804,
+    "income": 19971,
+    "winter_temp": 47.2
+    },
+    "95358": {
+    "cost_of_living": 137,
+    "crime": 87,
+    "education": 0.03904470387243736,
+    "income": 17219,
+    "winter_temp": 47.2
+    },
+    "95360": {
+    "cost_of_living": 123,
+    "crime": 64,
+    "education": 0.026876650320633723,
+    "income": 16034,
+    "winter_temp": 45.6
+    },
+    "95363": {
+    "cost_of_living": 135,
+    "crime": 87,
+    "education": 0.029285608637775476,
+    "income": 19238,
+    "winter_temp": 45.6
+    },
+    "95366": {
+    "cost_of_living": 122,
+    "crime": 46,
+    "education": 0.073894211838824,
+    "income": 33028,
+    "winter_temp": 46
+    },
+    "95367": {
+    "cost_of_living": 131,
+    "crime": 94,
+    "education": 0.06552341950345533,
+    "income": 20476,
+    "winter_temp": 47.2
+    },
+    "95368": {
+    "cost_of_living": 138,
+    "crime": 108,
+    "education": 0.07338333671194,
+    "income": 22641,
+    "winter_temp": 47.2
+    },
+    "95376": {
+    "cost_of_living": 128,
+    "crime": 67,
+    "education": 0.060989757698299576,
+    "income": 23708,
+    "winter_temp": 44.9
+    },
+    "95377": {
+    "cost_of_living": 156,
+    "crime": 68,
+    "education": 0.04281793229643184,
+    "income": 29409,
+    "winter_temp": 44.9
+    },
+    "95388": {
+    "cost_of_living": 146,
+    "crime": 42,
+    "education": 0.03405847032188208,
+    "income": 15578,
+    "winter_temp": 46.3
+    },
+    "95391": {
+    "cost_of_living": 142,
+    "crime": 74,
+    "education": 0.01552346570397112,
+    "income": 30856,
+    "winter_temp": 45.89
+    },
+    "95403": {
+    "cost_of_living": 120,
+    "crime": 38,
+    "education": 0.07848460221672747,
+    "income": 31975,
+    "winter_temp": 48.7
+    },
+    "95404": {
+    "cost_of_living": 115,
+    "crime": 79,
+    "education": 0.15716001200840587,
+    "income": 38240,
+    "winter_temp": 48.7
+    },
+    "95405": {
+    "cost_of_living": 114,
+    "crime": 74,
+    "education": 0.1464114059533907,
+    "income": 38860,
+    "winter_temp": 48.7
+    },
+    "95425": {
+    "cost_of_living": 119,
+    "crime": 34,
+    "education": 0.09447779111644658,
+    "income": 28729,
+    "winter_temp": 47.6
+    },
+    "95437": {
+    "cost_of_living": 99,
+    "crime": 60,
+    "education": 0.09453860640301319,
+    "income": 27098,
+    "winter_temp": 48.4
+    },
+    "95448": {
+    "cost_of_living": 117,
+    "crime": 36,
+    "education": 0.11656411518582328,
+    "income": 39507,
+    "winter_temp": 48.3
+    },
+    "95451": {
+    "cost_of_living": 104,
+    "crime": 34,
+    "education": 0.09027237354085603,
+    "income": 24370,
+    "winter_temp": 43.32
+    },
+    "95476": {
+    "cost_of_living": 112,
+    "crime": 61,
+    "education": 0.138612160769495,
+    "income": 43953,
+    "winter_temp": 47.9
+    },
+    "95490": {
+    "cost_of_living": 99,
+    "crime": 88,
+    "education": 0.08296004300304605,
+    "income": 20756,
+    "winter_temp": 43.4
+    },
+    "95501": {
+    "cost_of_living": 89,
+    "crime": 117,
+    "education": 0.054140321011673154,
+    "income": 22686,
+    "winter_temp": 47.9
+    },
+    "95503": {
+    "cost_of_living": 94,
+    "crime": 73,
+    "education": 0.08294324732097953,
+    "income": 26962,
+    "winter_temp": 47.9
+    },
+    "95519": {
+    "cost_of_living": 93,
+    "crime": 50,
+    "education": 0.16820521924374224,
+    "income": 27178,
+    "winter_temp": 47.9
+    },
+    "95521": {
+    "cost_of_living": 81,
+    "crime": 59,
+    "education": 0.0852151313889691,
+    "income": 24105,
+    "winter_temp": 47.9
+    },
+    "95540": {
+    "cost_of_living": 96,
+    "crime": 53,
+    "education": 0.06748086882584835,
+    "income": 24184,
+    "winter_temp": 48.4
+    },
+    "95602": {
+    "cost_of_living": 100,
+    "crime": 32,
+    "education": 0.13134944018856806,
+    "income": 34802,
+    "winter_temp": 45.9
+    },
+    "95605": {
+    "cost_of_living": 109,
+    "crime": 61,
+    "education": 0.014571362905079292,
+    "income": 18654,
+    "winter_temp": 45.72
+    },
+    "95608": {
+    "cost_of_living": 94,
+    "crime": 96,
+    "education": 0.1551375226564837,
+    "income": 35898,
+    "winter_temp": 48.2
+    },
+    "95610": {
+    "cost_of_living": 98,
+    "crime": 57,
+    "education": 0.10424597364568082,
+    "income": 25284,
+    "winter_temp": 46.9
+    },
+    "95616": {
+    "cost_of_living": 97,
+    "crime": 37,
+    "education": 0.06376915895121761,
+    "income": 31708,
+    "winter_temp": 45.2
+    },
+    "95620": {
+    "cost_of_living": 130,
+    "crime": 46,
+    "education": 0.06516488391580816,
+    "income": 26098,
+    "winter_temp": 45.2
+    },
+    "95621": {
+    "cost_of_living": 97,
+    "crime": 54,
+    "education": 0.10351067680057909,
+    "income": 24298,
+    "winter_temp": 46.9
+    },
+    "95624": {
+    "cost_of_living": 133,
+    "crime": 109,
+    "education": 0.07785597697316461,
+    "income": 29258,
+    "winter_temp": 48.2
+    },
+    "95628": {
+    "cost_of_living": 102,
+    "crime": 106,
+    "education": 0.20717800984275597,
+    "income": 39098,
+    "winter_temp": 46.9
+    },
+    "95630": {
+    "cost_of_living": 122,
+    "crime": 19,
+    "education": 0.10131075914800655,
+    "income": 39143,
+    "winter_temp": 46.9
+    },
+    "95648": {
+    "cost_of_living": 103,
+    "crime": 36,
+    "education": 0.022425089122266113,
+    "income": 32044,
+    "winter_temp": 46.28
+    },
+    "95650": {
+    "cost_of_living": 110,
+    "crime": 33,
+    "education": 0.1180020646390852,
+    "income": 41648,
+    "winter_temp": 46.56
+    },
+    "95667": {
+    "cost_of_living": 98,
+    "crime": 42,
+    "education": 0.08431733374226857,
+    "income": 31993,
+    "winter_temp": 45.81
+    },
+    "95670": {
+    "cost_of_living": 102,
+    "crime": 51,
+    "education": 0.06871701177425904,
+    "income": 28305,
+    "winter_temp": 47.31
+    },
+    "95673": {
+    "cost_of_living": 120,
+    "crime": 103,
+    "education": 0.036362462055157266,
+    "income": 19968,
+    "winter_temp": 48.2
+    },
+    "95678": {
+    "cost_of_living": 99,
+    "crime": 78,
+    "education": 0.055971146139460325,
+    "income": 30707,
+    "winter_temp": 46.9
+    },
+    "95687": {
+    "cost_of_living": 117,
+    "crime": 53,
+    "education": 0.08765499055562828,
+    "income": 28708,
+    "winter_temp": 47.2
+    },
+    "95691": {
+    "cost_of_living": 110,
+    "crime": 194,
+    "education": 0.024649474508315342,
+    "income": 28172,
+    "winter_temp": 46.3
+    },
+    "95726": {
+    "cost_of_living": 94,
+    "crime": 32,
+    "education": 0.14827787507297138,
+    "income": 30655,
+    "winter_temp": 46.5
+    },
+    "95742": {
+    "cost_of_living": 130,
+    "crime": 99,
+    "education": 0.0034681199740843782,
+    "income": 35373,
+    "winter_temp": 46.9
+    },
+    "95746": {
+    "cost_of_living": 126,
+    "crime": 28,
+    "education": 0.19806094182825484,
+    "income": 54225,
+    "winter_temp": 46.9
+    },
+    "95747": {
+    "cost_of_living": 111,
+    "crime": 39,
+    "education": 0.08785359854107469,
+    "income": 37400,
+    "winter_temp": 46.9
+    },
+    "95757": {
+    "cost_of_living": 143,
+    "crime": 152,
+    "education": 0.006233898412900353,
+    "income": 31086,
+    "winter_temp": 46.3
+    },
+    "95758": {
+    "cost_of_living": 119,
+    "crime": 43,
+    "education": 0.13735751295336787,
+    "income": 28961,
+    "winter_temp": 46.3
+    },
+    "95762": {
+    "cost_of_living": 127,
+    "crime": 19,
+    "education": 0.10711543997696958,
+    "income": 48321,
+    "winter_temp": 46.9
+    },
+    "95776": {
+    "cost_of_living": 133,
+    "crime": 70,
+    "education": 0.03454980556386479,
+    "income": 24410,
+    "winter_temp": 45.7
+    },
+    "95811": {
+    "cost_of_living": 70,
+    "crime": 255,
+    "education": 0.03845640272399519,
+    "income": 32940,
+    "winter_temp": 46.78
+    },
+    "95814": {
+    "cost_of_living": 69,
+    "crime": 165,
+    "education": 0.014611496080881518,
+    "income": 39503,
+    "winter_temp": 46.78
+    },
+    "95815": {
+    "cost_of_living": 98,
+    "crime": 344,
+    "education": 0.020024120435831322,
+    "income": 15761,
+    "winter_temp": 48.2
+    },
+    "95817": {
+    "cost_of_living": 84,
+    "crime": 256,
+    "education": 0.050804441423068204,
+    "income": 24575,
+    "winter_temp": 48.2
+    },
+    "95819": {
+    "cost_of_living": 89,
+    "crime": 329,
+    "education": 0.06873703724097426,
+    "income": 48905,
+    "winter_temp": 48.2
+    },
+    "95821": {
+    "cost_of_living": 88,
+    "crime": 67,
+    "education": 0.106795556196797,
+    "income": 25142,
+    "winter_temp": 48.2
+    },
+    "95822": {
+    "cost_of_living": 104,
+    "crime": 227,
+    "education": 0.04447216386554622,
+    "income": 22788,
+    "winter_temp": 46.3
+    },
+    "95823": {
+    "cost_of_living": 118,
+    "crime": 63,
+    "education": 0.044267891201088476,
+    "income": 15017,
+    "winter_temp": 46.3
+    },
+    "95824": {
+    "cost_of_living": 120,
+    "crime": 96,
+    "education": 0.02320912029947252,
+    "income": 11566,
+    "winter_temp": 48.2
+    },
+    "95825": {
+    "cost_of_living": 75,
+    "crime": 36,
+    "education": 0.07329643061652988,
+    "income": 27049,
+    "winter_temp": 48.2
+    },
+    "95826": {
+    "cost_of_living": 93,
+    "crime": 123,
+    "education": 0.10167471014632083,
+    "income": 26991,
+    "winter_temp": 48.2
+    },
+    "95827": {
+    "cost_of_living": 106,
+    "crime": 71,
+    "education": 0.062178903795907584,
+    "income": 22553,
+    "winter_temp": 48.2
+    },
+    "95828": {
+    "cost_of_living": 126,
+    "crime": 19,
+    "education": 0.06630417568494959,
+    "income": 17399,
+    "winter_temp": 48.2
+    },
+    "95829": {
+    "cost_of_living": 132,
+    "crime": 95,
+    "education": 0.06962843295638126,
+    "income": 25546,
+    "winter_temp": 48.2
+    },
+    "95831": {
+    "cost_of_living": 96,
+    "crime": 104,
+    "education": 0.26265605032930306,
+    "income": 38522,
+    "winter_temp": 46.3
+    },
+    "95833": {
+    "cost_of_living": 102,
+    "crime": 81,
+    "education": 0.08381067961165048,
+    "income": 25525,
+    "winter_temp": 48.2
+    },
+    "95841": {
+    "cost_of_living": 90,
+    "crime": 54,
+    "education": 0.021104284688422563,
+    "income": 22222,
+    "winter_temp": 48.2
+    },
+    "95843": {
+    "cost_of_living": 125,
+    "crime": 36,
+    "education": 0.13412861013812702,
+    "income": 23930,
+    "winter_temp": 48.2
+    },
+    "95864": {
+    "cost_of_living": 102,
+    "crime": 147,
+    "education": 0.2041504312420647,
+    "income": 51277,
+    "winter_temp": 48.2
+    },
+    "95926": {
+    "cost_of_living": 87,
+    "crime": 76,
+    "education": 0.0948433524173028,
+    "income": 25963,
+    "winter_temp": 44.5
+    },
+    "95928": {
+    "cost_of_living": 92,
+    "crime": 58,
+    "education": 0.060589888081372535,
+    "income": 27890,
+    "winter_temp": 44.5
+    },
+    "95946": {
+    "cost_of_living": 93,
+    "crime": 29,
+    "education": 0.17867595818815332,
+    "income": 31853,
+    "winter_temp": 42.74
+    },
+    "95948": {
+    "cost_of_living": 111,
+    "crime": 69,
+    "education": 0.04084735455098317,
+    "income": 19759,
+    "winter_temp": 46.28
+    },
+    "95949": {
+    "cost_of_living": 94,
+    "crime": 27,
+    "education": 0.12277334612847118,
+    "income": 31628,
+    "winter_temp": 42.2
+    },
+    "95954": {
+    "cost_of_living": 91,
+    "crime": 47,
+    "education": 0.11093579317878384,
+    "income": 22627,
+    "winter_temp": 42.6
+    },
+    "95959": {
+    "cost_of_living": 91,
+    "crime": 43,
+    "education": 0.13888717347001792,
+    "income": 34300,
+    "winter_temp": 41.02
+    },
+    "95961": {
+    "cost_of_living": 120,
+    "crime": 118,
+    "education": 0.017125677779567295,
+    "income": 17140,
+    "winter_temp": 46.3
+    },
+    "95963": {
+    "cost_of_living": 108,
+    "crime": 57,
+    "education": 0.05885512584407612,
+    "income": 19877,
+    "winter_temp": 46.5
+    },
+    "95965": {
+    "cost_of_living": 101,
+    "crime": 66,
+    "education": 0.025657269559708585,
+    "income": 17606,
+    "winter_temp": 45.3
+    },
+    "95973": {
+    "cost_of_living": 97,
+    "crime": 26,
+    "education": 0.1288473618090452,
+    "income": 30259,
+    "winter_temp": 44.5
+    },
+    "95991": {
+    "cost_of_living": 110,
+    "crime": 86,
+    "education": 0.0466914111444715,
+    "income": 20384,
+    "winter_temp": 46.3
+    },
+    "96003": {
+    "cost_of_living": 87,
+    "crime": 63,
+    "education": 0.06108649211701771,
+    "income": 26011,
+    "winter_temp": 46.3
+    },
+    "96007": {
+    "cost_of_living": 88,
+    "crime": 64,
+    "education": 0.04413009911839418,
+    "income": 19293,
+    "winter_temp": 45.5
+    },
+    "96019": {
+    "cost_of_living": 88,
+    "crime": 34,
+    "education": 0.03690036900369004,
+    "income": 19277,
+    "winter_temp": 46.3
+    },
+    "96067": {
+    "cost_of_living": 74,
+    "crime": 45,
+    "education": 0.11132242931406111,
+    "income": 29588,
+    "winter_temp": 35.3
+    },
+    "96097": {
+    "cost_of_living": 75,
+    "crime": 55,
+    "education": 0.06892533089153417,
+    "income": 20555,
+    "winter_temp": 34.1
+    },
+    "96130": {
+    "cost_of_living": 145,
+    "crime": 43,
+    "education": 0.04608074112526454,
+    "income": 17216,
+    "winter_temp": 30.8
+    },
+    "96150": {
+    "cost_of_living": 90,
+    "crime": 75,
+    "education": 0.10378262257961506,
+    "income": 28268,
+    "winter_temp": 28.1
+    },
+    "96161": {
+    "cost_of_living": 99,
+    "crime": 64,
+    "education": 0.12539820445988994,
+    "income": 43596,
+    "winter_temp": 27.82
+    }
+    }
